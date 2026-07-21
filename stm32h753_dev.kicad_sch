@@ -6466,7 +6466,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MCU_ST_STM32H7:STM32H753IITx"
+		(symbol "MCU_ST_STM32H7:STM32H743IITx"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -6483,7 +6483,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "STM32H753IITx"
+			(property "Value" "STM32H743IITx"
 				(at 22.86 113.03 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6506,7 +6506,7 @@
 					(justify right)
 				)
 			)
-			(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32h753ii.pdf"
+			(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32h743ii.pdf"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6550,7 +6550,7 @@
 					)
 				)
 			)
-			(symbol "STM32H753IITx_0_1"
+			(symbol "STM32H743IITx_0_1"
 				(rectangle
 					(start -30.48 -109.22)
 					(end 30.48 111.76)
@@ -6563,7 +6563,7 @@
 					)
 				)
 			)
-			(symbol "STM32H753IITx_1_1"
+			(symbol "STM32H743IITx_1_1"
 				(pin bidirectional line
 					(at 35.56 -71.12 180)
 					(length 5.08)
@@ -23439,7 +23439,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MCU_ST_STM32H7:STM32H753IITx")
+		(lib_id "MCU_ST_STM32H7:STM32H743IITx")
 		(at 201.93 91.44 90)
 		(unit 1)
 		(body_style 1)
@@ -23460,7 +23460,7 @@
 				)
 			)
 		)
-		(property "Value" "STM32H753IITx"
+		(property "Value" "STM32H743IITx"
 			(at 320.04 85.9946 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23482,7 +23482,7 @@
 				(justify right)
 			)
 		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32h753ii.pdf"
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32h743ii.pdf"
 			(at 201.93 91.44 0)
 			(hide yes)
 			(show_name no)
