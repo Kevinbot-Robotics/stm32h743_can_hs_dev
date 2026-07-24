@@ -1,314 +1,313 @@
-name: stm32h753_dev  # Put the name of diagram here
-description: Example diagram # Put a short description of the diagram here
+name: "STM32H743 CAN + USB-HS Dev Board"
+description: "Full pinout diagram"
 components:
     J1:
-        description: Conn_02x38_Counter_Clockwise  # Arbitrary comment
-        groups: [] # Specify component groups
+        description: Conn_02x38_Counter_Clockwise
         pins:
             '1':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '2':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '3':
                 name: VBUS
-                description: ''
-                groups: []
+                description: '5v Power input/output, will not backfeed USB ports'
+                groups: ['power']
             '4':
                 name: +3V3
-                description: ''
-                groups: []
+                description: '3.3v Power, max 2A total'
+                groups: ['power']
             '5':
-                name: /PI2
-                description: ''
-                groups: []
+                name: PI2
+                description: 'STM32 IO pin'
+                groups: ['io']
             '6':
-                name: /PI3
-                description: ''
-                groups: []
+                name: PI3
+                description: 'STM32 IO pin'
+                groups: ['io']
             '7':
-                name: /PA14
-                description: ''
-                groups: []
+                name: PA14
+                description: 'STM32 IO pin'
+                groups: ['io']
             '8':
-                name: /PA15
-                description: ''
-                groups: []
+                name: PA15
+                description: 'STM32 IO pin'
+                groups: ['io']
             '9':
-                name: /PC10
-                description: ''
-                groups: []
+                name: PC10
+                description: 'STM32 IO pin'
+                groups: ['io']
             '10':
-                name: /PC11
-                description: ''
-                groups: []
+                name: PC11
+                description: 'STM32 IO pin'
+                groups: ['io']
             '11':
-                name: /PC12
-                description: ''
-                groups: []
+                name: PC12
+                description: 'STM32 IO pin'
+                groups: ['io']
             '12':
-                name: /PD0
-                description: ''
-                groups: []
+                name: PD0
+                description: 'STM32 IO pin'
+                groups: ['io']
             '13':
-                name: /PD1
-                description: ''
-                groups: []
+                name: PD1
+                description: 'STM32 IO pin'
+                groups: ['io']
             '14':
-                name: /PD2
-                description: ''
-                groups: []
+                name: PD2
+                description: 'STM32 IO pin'
+                groups: ['io']
             '15':
-                name: /PD3
-                description: ''
-                groups: []
+                name: PD3
+                description: 'STM32 IO pin'
+                groups: ['io']
             '16':
-                name: /PD4
-                description: ''
-                groups: []
+                name: PD4
+                description: 'STM32 IO pin'
+                groups: ['io']
             '17':
-                name: /PD5
-                description: ''
-                groups: []
+                name: PD5
+                description: 'STM32 IO pin'
+                groups: ['io']
             '18':
-                name: /PD6
-                description: ''
-                groups: []
+                name: PD6
+                description: 'STM32 IO pin'
+                groups: ['io']
             '19':
-                name: /PD7
-                description: ''
-                groups: []
+                name: PD7
+                description: 'STM32 IO pin'
+                groups: ['io']
             '20':
-                name: /PG9
-                description: ''
-                groups: []
+                name: PG9
+                description: 'STM32 IO pin'
+                groups: ['io']
             '21':
-                name: /PG10
-                description: ''
-                groups: []
+                name: PG10
+                description: 'STM32 IO pin'
+                groups: ['io']
             '22':
-                name: /PG11
-                description: ''
-                groups: []
+                name: PG11
+                description: 'STM32 IO pin'
+                groups: ['io']
             '23':
-                name: /PG12
-                description: ''
-                groups: []
+                name: PG12
+                description: 'STM32 IO pin'
+                groups: ['io']
             '24':
-                name: /PG13
-                description: ''
-                groups: []
+                name: PG13
+                description: 'STM32 IO pin'
+                groups: ['io']
             '25':
-                name: /PG14
-                description: ''
-                groups: []
+                name: PG14
+                description: 'STM32 IO pin'
+                groups: ['io']
             '26':
-                name: /PG15
-                description: ''
-                groups: []
+                name: PG15
+                description: 'STM32 IO pin'
+                groups: ['io']
             '27':
-                name: /PB3
-                description: ''
-                groups: []
+                name: PB3
+                description: 'STM32 IO pin'
+                groups: ['io']
             '28':
-                name: /PB4
-                description: ''
-                groups: []
+                name: PB4
+                description: 'STM32 IO pin'
+                groups: ['io']
             '29':
-                name: /PB6
-                description: ''
-                groups: []
+                name: PB6
+                description: 'STM32 IO pin'
+                groups: ['io']
             '30':
-                name: /PB7
-                description: ''
-                groups: []
+                name: PB7
+                description: 'STM32 IO pin'
+                groups: ['io']
             '31':
-                name: /BOOT0
-                description: ''
-                groups: []
+                name: BOOT0
+                description: 'Active-high Bootloader'
+                groups: ['core']
             '32':
-                name: /PB8
-                description: ''
-                groups: []
+                name: PB8
+                description: 'STM32 IO pin'
+                groups: ['io']
             '33':
-                name: /PB9
-                description: ''
-                groups: []
+                name: PB9
+                description: 'STM32 IO pin'
+                groups: ['io']
             '34':
-                name: /PE0
-                description: ''
-                groups: []
+                name: PE0
+                description: 'STM32 IO pin'
+                groups: ['io']
             '35':
-                name: /PE1
-                description: ''
-                groups: []
+                name: PE1
+                description: 'STM32 IO pin'
+                groups: ['io']
             '36':
-                name: /PI4
-                description: ''
-                groups: []
+                name: PI4
+                description: 'STM32 IO pin'
+                groups: ['io']
             '37':
-                name: /PI5
-                description: ''
-                groups: []
+                name: PI5
+                description: 'STM32 IO pin'
+                groups: ['io']
             '38':
-                name: /PI6
-                description: ''
-                groups: []
+                name: PI6
+                description: 'STM32 IO pin'
+                groups: ['io']
             '39':
-                name: /PI7
-                description: ''
-                groups: []
+                name: PI7
+                description: 'STM32 IO pin'
+                groups: ['io']
             '40':
-                name: /PE3
-                description: ''
-                groups: []
+                name: PE3
+                description: 'STM32 IO pin'
+                groups: ['io']
             '41':
-                name: /PE4
-                description: ''
-                groups: []
+                name: PE4
+                description: 'STM32 IO pin'
+                groups: ['io']
             '42':
-                name: /PE5
-                description: ''
-                groups: []
+                name: PE5
+                description: 'STM32 IO pin'
+                groups: ['io']
             '43':
-                name: /PE6
-                description: ''
-                groups: []
+                name: PE6
+                description: 'STM32 IO pin'
+                groups: ['io']
             '44':
-                name: /PI8
-                description: ''
-                groups: []
+                name: PI8
+                description: 'STM32 IO pin'
+                groups: ['io']
             '45':
-                name: /PC13
-                description: ''
-                groups: []
+                name: PC13
+                description: 'STM32 IO pin'
+                groups: ['io']
             '46':
-                name: /PF0
-                description: ''
-                groups: []
+                name: PF0
+                description: 'STM32 IO pin'
+                groups: ['io']
             '47':
-                name: /PF1
-                description: ''
-                groups: []
+                name: PF1
+                description: 'STM32 IO pin'
+                groups: ['io']
             '48':
-                name: /PF2
-                description: ''
-                groups: []
+                name: PF2
+                description: 'STM32 IO pin'
+                groups: ['io']
             '49':
-                name: /PF3
-                description: ''
-                groups: []
+                name: PF3
+                description: 'STM32 IO pin'
+                groups: ['io']
             '50':
-                name: /PF4
-                description: ''
-                groups: []
+                name: PF4
+                description: 'STM32 IO pin'
+                groups: ['io']
             '51':
-                name: /PF5
-                description: ''
-                groups: []
+                name: PF5
+                description: 'STM32 IO pin'
+                groups: ['io']
             '52':
-                name: /PH1
-                description: ''
-                groups: []
+                name: PH1
+                description: 'STM32 IO pin'
+                groups: ['io']
             '53':
-                name: /PC1
-                description: ''
-                groups: []
+                name: PC1
+                description: 'STM32 IO pin'
+                groups: ['io']
             '54':
-                name: /PC2_C
-                description: ''
-                groups: []
+                name: PC2_C
+                description: 'STM32 IO pin'
+                groups: ['io']
             '55':
-                name: /PA0
-                description: ''
-                groups: []
+                name: PA0
+                description: 'STM32 IO pin'
+                groups: ['io']
             '56':
-                name: /PA1
-                description: ''
-                groups: []
+                name: PA1
+                description: 'STM32 IO pin'
+                groups: ['io']
             '57':
-                name: /PA2
-                description: ''
-                groups: []
+                name: PA2
+                description: 'STM32 IO pin'
+                groups: ['io']
             '58':
-                name: /PH2
-                description: ''
-                groups: []
+                name: PH2
+                description: 'STM32 IO pin'
+                groups: ['io']
             '59':
-                name: /PH3
-                description: ''
-                groups: []
+                name: PH3
+                description: 'STM32 IO pin'
+                groups: ['io']
             '60':
-                name: unconnected-(J1-Pin_60-Pad60)
-                description: ''
-                groups: []
+                name: GND
+                description: 'Ground'
+                groups: ['ground']
             '61':
-                name: /~{RESET}
-                description: ''
-                groups: []
+                name: nRESET
+                description: 'Reset core when low'
+                groups: ['core']
             '62':
-                name: unconnected-(J1-Pin_62-Pad62)
-                description: ''
-                groups: []
+                name: GND
+                description: 'Ground'
+                groups: ['ground']
             '63':
                 name: +3V3
-                description: ''
-                groups: []
+                description: '3.3v Power, max 2A total'
+                groups: ['power']
             '64':
-                name: unconnected-(J1-Pin_64-Pad64)
-                description: ''
-                groups: []
+                name: GND
+                description: 'Ground'
+                groups: ['ground']
             '65':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '66':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '67':
                 name: VBUS
-                description: ''
-                groups: []
+                description: '5v Power input/output, will not backfeed USB ports'
+                groups: ['power']
             '68':
                 name: +3V3
-                description: ''
-                groups: []
+                description: '3.3v Power, max 2A total'
+                groups: ['power']
             '69':
                 name: VBUS
-                description: ''
-                groups: []
+                description: '5v Power input/output, will not backfeed USB ports'
+                groups: ['power']
             '70':
                 name: +3V3
-                description: ''
-                groups: []
+                description: '3.3v Power, max 2A total'
+                groups: ['power']
             '71':
-                name: /CAN_RX
-                description: ''
-                groups: []
+                name: CAN_RX
+                description: 'CANbus transciever RX, PI9'
+                groups: ['io']
             '72':
-                name: /CAN_TX
-                description: ''
-                groups: []
+                name: CAN_TX
+                description: 'CANbus transciever TX, PH13'
+                groups: ['io']
             '73':
-                name: /CAN_L
-                description: ''
-                groups: []
+                name: CAN_L
+                description: 'CANbus Low'
+                groups: ['can']
             '74':
-                name: /CAN_H
-                description: ''
-                groups: []
+                name: CAN_H
+                description: 'CANbus High'
+                groups: ['can']
             '75':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '76':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
         highlight: false # Make the component active
         highlightBoth: true
     J2:
@@ -317,354 +316,380 @@ components:
         pins:
             '1':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '2':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '3':
                 name: +3V3
-                description: ''
-                groups: []
+                description: '3.3v Power, max 2A total'
+                groups: ['power']
             '4':
                 name: +3V3
-                description: ''
-                groups: []
+                description: '3.3v Power, max 2A total'
+                groups: ['power']
             '5':
-                name: unconnected-(J2-Pin_5-Pad5)
-                description: ''
-                groups: []
+                name: +3V3
+                description: '3.3v Power, max 2A total'
+                groups: ['power']
             '6':
-                name: unconnected-(J2-Pin_6-Pad6)
-                description: ''
-                groups: []
+                name: +3V3
+                description: '3.3v Power, max 2A total'
+                groups: ['power']
             '7':
-                name: unconnected-(J2-Pin_7-Pad7)
-                description: ''
-                groups: []
+                name: GND
+                description: 'Ground'
+                groups: ['ground']
             '8':
-                name: unconnected-(J2-Pin_8-Pad8)
-                description: ''
-                groups: []
+                name: GND
+                description: 'Ground'
+                groups: ['ground']
             '9':
-                name: unconnected-(J2-Pin_9-Pad9)
-                description: ''
-                groups: []
+                name: GND
+                description: 'Ground'
+                groups: ['ground']
             '10':
-                name: unconnected-(J2-Pin_10-Pad10)
-                description: ''
-                groups: []
+                name: GND
+                description: 'Ground'
+                groups: ['ground']
             '11':
-                name: unconnected-(J2-Pin_11-Pad11)
-                description: ''
-                groups: []
+                name: GND
+                description: 'Ground'
+                groups: ['ground']
             '12':
-                name: unconnected-(J2-Pin_12-Pad12)
-                description: ''
-                groups: []
+                name: GND
+                description: 'Ground'
+                groups: ['ground']
             '13':
-                name: unconnected-(J2-Pin_13-Pad13)
-                description: ''
-                groups: []
+                name: PI0
+                description: 'STM32 IO pin'
+                groups: ['io']
             '14':
-                name: unconnected-(J2-Pin_14-Pad14)
-                description: ''
-                groups: []
+                name: PI1
+                description: 'STM32 IO pin'
+                groups: ['io']
             '15':
-                name: unconnected-(J2-Pin_15-Pad15)
-                description: ''
-                groups: []
+                name: PH14
+                description: 'STM32 IO pin'
+                groups: ['io']
             '16':
-                name: unconnected-(J2-Pin_16-Pad16)
-                description: ''
-                groups: []
+                name: PH15
+                description: 'STM32 IO pin'
+                groups: ['io']
             '17':
-                name: unconnected-(J2-Pin_17-Pad17)
-                description: ''
-                groups: []
+                name: PA9
+                description: 'STM32 IO pin'
+                groups: ['io']
             '18':
-                name: unconnected-(J2-Pin_18-Pad18)
-                description: ''
-                groups: []
+                name: PA10
+                description: 'STM32 IO pin'
+                groups: ['io']
             '19':
-                name: unconnected-(J2-Pin_19-Pad19)
-                description: ''
-                groups: []
+                name: PA8
+                description: 'STM32 IO pin'
+                groups: ['io']
             '20':
-                name: unconnected-(J2-Pin_20-Pad20)
-                description: ''
-                groups: []
+                name: PC9
+                description: 'STM32 IO pin'
+                groups: ['io']
             '21':
-                name: unconnected-(J2-Pin_21-Pad21)
-                description: ''
-                groups: []
+                name: PC7
+                description: 'STM32 IO pin'
+                groups: ['io']
             '22':
-                name: unconnected-(J2-Pin_22-Pad22)
-                description: ''
-                groups: []
+                name: PC8
+                description: 'STM32 IO pin'
+                groups: ['io']
             '23':
-                name: unconnected-(J2-Pin_23-Pad23)
-                description: ''
-                groups: []
+                name: PG8
+                description: 'STM32 IO pin'
+                groups: ['io']
             '24':
-                name: unconnected-(J2-Pin_24-Pad24)
-                description: ''
-                groups: []
+                name: PC6
+                description: 'STM32 IO pin'
+                groups: ['io']
             '25':
-                name: unconnected-(J2-Pin_25-Pad25)
-                description: ''
-                groups: []
+                name: PG5
+                description: 'STM32 IO pin'
+                groups: ['io']
             '26':
-                name: unconnected-(J2-Pin_26-Pad26)
-                description: ''
-                groups: []
+                name: PG7
+                description: 'STM32 IO pin'
+                groups: ['io']
             '27':
-                name: unconnected-(J2-Pin_27-Pad27)
-                description: ''
-                groups: []
+                name: PG3
+                description: 'STM32 IO pin'
+                groups: ['io']
             '28':
-                name: unconnected-(J2-Pin_28-Pad28)
-                description: ''
-                groups: []
+                name: PG4
+                description: 'STM32 IO pin'
+                groups: ['io']
             '29':
-                name: unconnected-(J2-Pin_29-Pad29)
-                description: ''
-                groups: []
+                name: PD15
+                description: 'STM32 IO pin'
+                groups: ['io']
             '30':
-                name: unconnected-(J2-Pin_30-Pad30)
-                description: ''
-                groups: []
+                name: PG2
+                description: 'STM32 IO pin'
+                groups: ['io']
             '31':
-                name: unconnected-(J2-Pin_31-Pad31)
-                description: ''
-                groups: []
+                name: PD13
+                description: 'STM32 IO pin'
+                groups: ['io']
             '32':
-                name: unconnected-(J2-Pin_32-Pad32)
-                description: ''
-                groups: []
+                name: PD14
+                description: 'STM32 IO pin'
+                groups: ['io']
             '33':
-                name: unconnected-(J2-Pin_33-Pad33)
-                description: ''
-                groups: []
+                name: PD11
+                description: 'STM32 IO pin'
+                groups: ['io']
             '34':
-                name: unconnected-(J2-Pin_34-Pad34)
-                description: ''
-                groups: []
+                name: PD12
+                description: 'STM32 IO pin'
+                groups: ['io']
             '35':
-                name: unconnected-(J2-Pin_35-Pad35)
-                description: ''
-                groups: []
+                name: PD9
+                description: 'STM32 IO pin'
+                groups: ['io']
             '36':
-                name: unconnected-(J2-Pin_36-Pad36)
-                description: ''
-                groups: []
+                name: PD10
+                description: 'STM32 IO pin'
+                groups: ['io']
             '37':
-                name: unconnected-(J2-Pin_37-Pad37)
-                description: ''
-                groups: []
+                name: PB15
+                description: 'STM32 IO pin'
+                groups: ['io']
             '38':
-                name: unconnected-(J2-Pin_38-Pad38)
-                description: ''
-                groups: []
+                name: PD8
+                description: 'STM32 IO pin'
+                groups: ['io']
             '39':
-                name: unconnected-(J2-Pin_39-Pad39)
-                description: ''
-                groups: []
+                name: PH12
+                description: 'STM32 IO pin'
+                groups: ['io']
             '40':
-                name: unconnected-(J2-Pin_40-Pad40)
-                description: ''
-                groups: []
+                name: PB14
+                description: 'STM32 IO pin'
+                groups: ['io']
             '41':
-                name: unconnected-(J2-Pin_41-Pad41)
-                description: ''
-                groups: []
+                name: PH10
+                description: 'STM32 IO pin'
+                groups: ['io']
             '42':
-                name: unconnected-(J2-Pin_42-Pad42)
-                description: ''
-                groups: []
+                name: PH11
+                description: 'STM32 IO pin'
+                groups: ['io']
             '43':
-                name: unconnected-(J2-Pin_43-Pad43)
-                description: ''
-                groups: []
+                name: PH8
+                description: 'STM32 IO pin'
+                groups: ['io']
             '44':
-                name: unconnected-(J2-Pin_44-Pad44)
-                description: ''
-                groups: []
+                name: PH9
+                description: 'STM32 IO pin'
+                groups: ['io']
             '45':
-                name: unconnected-(J2-Pin_45-Pad45)
-                description: ''
-                groups: []
+                name: PH6
+                description: 'STM32 IO pin'
+                groups: ['io']
             '46':
-                name: unconnected-(J2-Pin_46-Pad46)
-                description: ''
-                groups: []
+                name: PH7
+                description: 'STM32 IO pin'
+                groups: ['io']
             '47':
-                name: unconnected-(J2-Pin_47-Pad47)
-                description: ''
-                groups: []
+                name: PE14
+                description: 'STM32 IO pin'
+                groups: ['io']
             '48':
-                name: unconnected-(J2-Pin_48-Pad48)
-                description: ''
-                groups: []
+                name: PE15
+                description: 'STM32 IO pin'
+                groups: ['io']
             '49':
-                name: unconnected-(J2-Pin_49-Pad49)
-                description: ''
-                groups: []
+                name: PE12
+                description: 'STM32 IO pin'
+                groups: ['io']
             '50':
-                name: unconnected-(J2-Pin_50-Pad50)
-                description: ''
-                groups: []
+                name: PE13
+                description: 'STM32 IO pin'
+                groups: ['io']
             '51':
-                name: unconnected-(J2-Pin_51-Pad51)
-                description: ''
-                groups: []
+                name: PE10
+                description: 'STM32 IO pin'
+                groups: ['io']
             '52':
-                name: unconnected-(J2-Pin_52-Pad52)
-                description: ''
-                groups: []
+                name: PE11
+                description: 'STM32 IO pin'
+                groups: ['io']
             '53':
-                name: unconnected-(J2-Pin_53-Pad53)
-                description: ''
-                groups: []
+                name: PE8
+                description: 'STM32 IO pin'
+                groups: ['io']
             '54':
-                name: unconnected-(J2-Pin_54-Pad54)
-                description: ''
-                groups: []
+                name: PE9
+                description: 'STM32 IO pin'
+                groups: ['io']
             '55':
-                name: unconnected-(J2-Pin_55-Pad55)
-                description: ''
-                groups: []
+                name: PG1
+                description: 'STM32 IO pin'
+                groups: ['io']
             '56':
-                name: unconnected-(J2-Pin_56-Pad56)
-                description: ''
-                groups: []
+                name: PE7
+                description: 'STM32 IO pin'
+                groups: ['io']
             '57':
-                name: /PF15
-                description: ''
-                groups: []
+                name: PF15
+                description: 'STM32 IO pin'
+                groups: ['io']
             '58':
-                name: /PG0
-                description: ''
-                groups: []
+                name: PG0
+                description: 'STM32 IO pin'
+                groups: ['io']
             '59':
-                name: /PF13
-                description: ''
-                groups: []
+                name: PF13
+                description: 'STM32 IO pin'
+                groups: ['io']
             '60':
-                name: /PF14
-                description: ''
-                groups: []
+                name: PF14
+                description: 'STM32 IO pin'
+                groups: ['io']
             '61':
-                name: /PF11
-                description: ''
-                groups: []
+                name: PF11
+                description: 'STM32 IO pin'
+                groups: ['io']
             '62':
-                name: /PF12
-                description: ''
-                groups: []
+                name: PF12
+                description: 'STM32 IO pin'
+                groups: ['io']
             '63':
-                name: /PC5
-                description: ''
-                groups: []
+                name: PC5
+                description: 'STM32 IO pin'
+                groups: ['io']
             '64':
-                name: /PB2
-                description: ''
-                groups: []
+                name: PB2
+                description: 'STM32 IO pin'
+                groups: ['io']
             '65':
-                name: /PA7
-                description: ''
-                groups: []
+                name: PA7
+                description: 'STM32 IO pin'
+                groups: ['io']
             '66':
-                name: /PC4
-                description: ''
-                groups: []
+                name: PC4
+                description: 'STM32 IO pin'
+                groups: ['io']
             '67':
-                name: /PA4
-                description: ''
-                groups: []
+                name: PA4
+                description: 'STM32 IO pin'
+                groups: ['io']
             '68':
-                name: /PA6
-                description: ''
-                groups: []
+                name: PA6
+                description: 'STM32 IO pin'
+                groups: ['io']
             '69':
-                name: /PH4
-                description: ''
-                groups: []
+                name: PH4
+                description: 'STM32 IO pin'
+                groups: ['io']
             '70':
-                name: /PH5
-                description: ''
-                groups: []
+                name: PH5
+                description: 'STM32 IO pin'
+                groups: ['io']
             '71':
                 name: +3V3
-                description: ''
-                groups: []
+                description: '3.3v Power, max 2A total'
+                groups: ['power']
             '72':
                 name: +3V3
-                description: ''
-                groups: []
+                description: '3.3v Power, max 2A total'
+                groups: ['power']
             '73':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '74':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '75':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '76':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
         highlight: false # Make the component active
         highlightBoth: true
     J5:
-        description: DE9_Pins_MountingHoles  # Arbitrary comment
+        description: DE9_Pins_MH  # Arbitrary comment
         groups: [] # Specify component groups
         pins:
             '1':
-                name: unconnected-(J5-Pad1)
-                description: ''
-                groups: []
+                name: "N/C"
+                description: 'Not Connected'
+                groups: ['nc']
             '2':
-                name: /CAN_L
-                description: ''
-                groups: []
+                name: CAN_L
+                description: 'CANbus Low'
+                groups: ['can']
             '3':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '4':
-                name: unconnected-(J5-Pad4)
-                description: ''
-                groups: []
+                name: "N/C"
+                description: 'Not Connected'
+                groups: ['nc']
             '5':
-                name: unconnected-(J5-Pad5)
-                description: ''
-                groups: []
+                name: "N/C"
+                description: 'Not Connected'
+                groups: ['nc']
             '6':
-                name: unconnected-(J5-Pad6)
-                description: ''
-                groups: []
+                name: "N/C"
+                description: 'Not Connected'
+                groups: ['nc']
             '7':
-                name: /CAN_H
-                description: ''
-                groups: []
+                name: CAN_H
+                description: 'CANbus High'
+                groups: ['can']
             '8':
-                name: unconnected-(J5-Pad8)
-                description: ''
-                groups: []
+                name: "N/C"
+                description: 'Not Connected'
+                groups: ['nc']
             '9':
-                name: unconnected-(J5-Pad9)
-                description: ''
-                groups: []
+                name: "N/C"
+                description: 'Not Connected'
+                groups: ['nc']
             SH:
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
+        highlight: false # Make the component active
+        highlightBoth: true
+    J6:
+        description: Conn_01x05_Pin  # Arbitrary comment
+        groups: [] # Specify component groups
+        pins:
+            '1':
+                name: GND
+                description: 'Ground'
+                groups: ['ground']
+            '2':
+                name: CAN_TX
+                description: 'CANbus transciever TX, PH13'
+                groups: ['io']
+            '3':
+                name: CAN_RX
+                description: 'CANbus transciever RX, PI9'
+                groups: ['io']
+            '4':
+                name: CAN_L
+                description: 'CANbus low'
+                groups: ['can']
+            '5':
+                name: CAN_H
+                description: 'CANbus high'
+                groups: ['can']
         highlight: false # Make the component active
         highlightBoth: true
     J7:
@@ -673,43 +698,43 @@ components:
         pins:
             '1':
                 name: +3V3
-                description: ''
-                groups: []
+                description: '3.3v Power, max 2A total'
+                groups: ['power']
             '2':
-                name: /PA13
-                description: ''
-                groups: []
+                name: PA13
+                description: 'STM32 IO pin'
+                groups: ['io']
             '3':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '4':
-                name: /PA14
-                description: ''
-                groups: []
+                name: PA14
+                description: 'STM32 IO pin'
+                groups: ['io']
             '5':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '6':
-                name: /PB3
-                description: ''
-                groups: []
+                name: PB3
+                description: 'STM32 IO pin'
+                groups: ['io']
             '7':
                 name: unconnected-(J7-KEY-Pad7)
-                description: ''
-                groups: []
+                description: 'STM32 IO pin'
+                groups: ['io']
             '8':
                 name: unconnected-(J7-NC{slash}TDI-Pad8)
-                description: ''
-                groups: []
+                description: 'STM32 IO pin'
+                groups: ['io']
             '9':
                 name: GND
-                description: ''
-                groups: []
+                description: 'Ground'
+                groups: ['ground']
             '10':
-                name: /~{RESET}
-                description: ''
-                groups: []
+                name: nRESET
+                description: 'STM32 IO pin'
+                groups: ['io']
         highlight: false # Make the component active
         highlightBoth: false
