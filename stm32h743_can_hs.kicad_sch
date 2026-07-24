@@ -21802,7 +21802,7 @@
 			(uuid "528184d3-8557-47c4-a99c-e89816559e37")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR085")
 					(unit 1)
@@ -21900,7 +21900,7 @@
 			(uuid "e8806e8e-0322-4964-bace-c42ecc9fb63f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "Q2")
 					(unit 1)
@@ -21977,7 +21977,7 @@
 			(uuid "3ff9948d-0e1c-40ed-b0c4-be261f2ded1f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR070")
 					(unit 1)
@@ -22055,7 +22055,7 @@
 			(uuid "c1f6bda9-cbd8-4376-92b0-6dd4d8a618c5")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR069")
 					(unit 1)
@@ -22134,7 +22134,7 @@
 			(uuid "49795f8b-1374-4067-81ea-6158bf2749cf")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR015")
 					(unit 1)
@@ -22213,7 +22213,7 @@
 			(uuid "9e1e7ae5-7620-4131-80c4-036aa39d0500")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0127")
 					(unit 1)
@@ -22306,7 +22306,7 @@
 			(uuid "63722d82-6b2e-40a4-a88a-bc0f7793a0b7")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R1")
 					(unit 1)
@@ -22385,7 +22385,7 @@
 			(uuid "0ba3451b-9604-4ecf-b4b0-13325879f95c")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0106")
 					(unit 1)
@@ -22463,7 +22463,7 @@
 			(uuid "109bf45f-2e90-41dc-b17f-ec64e8444d37")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR031")
 					(unit 1)
@@ -22579,7 +22579,7 @@
 			(uuid "6c1de29d-dadd-4241-95f8-5831fe5d5ed9")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "J7")
 					(unit 1)
@@ -22657,7 +22657,7 @@
 			(uuid "1f70defd-6dae-4557-bdd9-4452eb62ae27")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR027")
 					(unit 1)
@@ -22734,7 +22734,7 @@
 			(uuid "0efc331b-aa9f-47d8-8458-a6400a62f076")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "TP5")
 					(unit 1)
@@ -22812,7 +22812,7 @@
 			(uuid "c7069ba4-42cd-471a-823f-14fa8813eb24")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0135")
 					(unit 1)
@@ -22906,7 +22906,7 @@
 			(uuid "2a586760-b15a-40cf-80f2-449c4a611161")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R14")
 					(unit 1)
@@ -22999,7 +22999,7 @@
 			(uuid "32ca035b-7d5c-4615-bc38-22f6eb203f27")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "SW1")
 					(unit 1)
@@ -23103,7 +23103,7 @@
 			(uuid "78423608-ec52-4fb3-a1f3-76d204ac35f9")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "D4")
 					(unit 1)
@@ -23181,7 +23181,7 @@
 			(uuid "ff3f00ef-1be2-4367-b342-563b55731fb3")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR080")
 					(unit 1)
@@ -23260,7 +23260,7 @@
 			(uuid "bababcb7-f4db-457c-ac6a-5a0a04da7e29")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR078")
 					(unit 1)
@@ -23339,7 +23339,7 @@
 			(uuid "edfe264a-c521-4e88-9a06-6004f7e4b806")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0101")
 					(unit 1)
@@ -23417,7 +23417,7 @@
 			(uuid "fc3ba2a3-5999-4786-aad3-f0eaf61bd56d")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR064")
 					(unit 1)
@@ -23496,7 +23496,7 @@
 			(uuid "4049275d-3d8b-410e-b2fa-067a129faf83")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0109")
 					(unit 1)
@@ -23571,7 +23571,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0402FR-07300RL"
 			(at 538.48 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -23589,7 +23589,7 @@
 			(uuid "fe6ca803-18bb-4de7-9efa-739e1e1a4fda")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R27")
 					(unit 1)
@@ -23667,7 +23667,7 @@
 			(uuid "284bcfcc-e560-4dd7-a6f0-664ddf7fd2fe")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR056")
 					(unit 1)
@@ -23758,7 +23758,7 @@
 			(uuid "11e0dbc1-4932-4629-8a0a-c10b6d2741ce")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R26")
 					(unit 1)
@@ -23837,7 +23837,7 @@
 			(uuid "d006f6cf-fc65-4caa-8f27-124302b2377b")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR092")
 					(unit 1)
@@ -23949,7 +23949,7 @@
 			(uuid "ae535f22-6e78-4762-8016-b1a75eaeda8e")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "U5")
 					(unit 1)
@@ -24042,7 +24042,7 @@
 			(uuid "d08abaf6-e31f-4f68-909b-0dea5d8f839a")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C14")
 					(unit 1)
@@ -24121,7 +24121,7 @@
 			(uuid "d80abc25-e38d-482d-af24-965e3bfb5f41")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR065")
 					(unit 1)
@@ -24199,7 +24199,7 @@
 			(uuid "188f1f1c-ac78-4d4d-a256-638b10f475eb")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR011")
 					(unit 1)
@@ -24292,7 +24292,7 @@
 			(uuid "40c47eb6-8967-4120-ba2a-d71eaeef3d98")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R5")
 					(unit 1)
@@ -24384,7 +24384,7 @@
 			(uuid "6aa0e0ba-83fe-4bf3-90ff-3a0a9a242399")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R4")
 					(unit 1)
@@ -24463,7 +24463,7 @@
 			(uuid "98cdd7c7-3161-41bc-900a-81191089d1eb")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR093")
 					(unit 1)
@@ -24541,7 +24541,7 @@
 			(uuid "c8774553-4269-40aa-a53d-de9aa295cc27")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR051")
 					(unit 1)
@@ -24633,7 +24633,7 @@
 			(uuid "d0163683-aef2-42e7-83e9-56d0c91337ba")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R11")
 					(unit 1)
@@ -24744,7 +24744,7 @@
 			(uuid "b3e3fa92-edc9-4781-984c-e9a084f79211")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "U6")
 					(unit 1)
@@ -24880,7 +24880,7 @@
 			(uuid "35ca1d9c-fb86-4dae-8819-e774ae029b37")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "J3")
 					(unit 1)
@@ -24957,7 +24957,7 @@
 			(uuid "9845d8a0-1681-4d4f-8529-7a4e334f176d")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR048")
 					(unit 1)
@@ -25036,7 +25036,7 @@
 			(uuid "a731c48f-f65f-4962-ba5b-12a189b1237a")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0114")
 					(unit 1)
@@ -25129,7 +25129,7 @@
 			(uuid "fc75ed00-136d-4e16-ab76-79dfbf18015b")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C27")
 					(unit 1)
@@ -25208,7 +25208,7 @@
 			(uuid "6d2706c4-3e14-4425-bd48-895143a9bd9f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0118")
 					(unit 1)
@@ -25301,7 +25301,7 @@
 			(uuid "0fa3f1ee-d36c-4789-939e-5e3e04348177")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R7")
 					(unit 1)
@@ -25394,7 +25394,7 @@
 			(uuid "58ab6fa7-c77c-4bdc-afdd-9051408fc278")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C3")
 					(unit 1)
@@ -25487,7 +25487,7 @@
 			(uuid "be395782-7e5d-4078-a6d6-dc1552a4d6dd")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C21")
 					(unit 1)
@@ -25608,7 +25608,7 @@
 			(uuid "1afca795-3a4d-4328-86e9-f115c6ed3e99")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "U3")
 					(unit 1)
@@ -25687,7 +25687,7 @@
 			(uuid "842690b5-b269-4008-861d-f86f69fdc71d")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR033")
 					(unit 1)
@@ -25765,7 +25765,7 @@
 			(uuid "064d4619-76f7-4ec8-9d61-44e887b7170d")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR041")
 					(unit 1)
@@ -25862,7 +25862,7 @@
 			(uuid "4c50fcf3-22da-482a-b9bc-1e0aa0f0cc54")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "D2")
 					(unit 1)
@@ -25940,7 +25940,7 @@
 			(uuid "c9b9df07-b89f-4c16-b2bc-9520883dafc0")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR018")
 					(unit 1)
@@ -26126,7 +26126,7 @@
 			(uuid "96e2524b-1523-42a3-b796-655318781474")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "U4")
 					(unit 1)
@@ -26203,7 +26203,7 @@
 			(uuid "47639e7f-f1fa-4a57-bb95-b9c38397055f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "TP3")
 					(unit 1)
@@ -26281,7 +26281,7 @@
 			(uuid "5606a7b3-5d5e-41ce-b2e4-6068a7617968")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR028")
 					(unit 1)
@@ -26374,7 +26374,7 @@
 			(uuid "d73f246f-ab77-4341-8f21-f1f3f077b1cd")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C13")
 					(unit 1)
@@ -26470,7 +26470,7 @@
 			(uuid "8e40f30b-5925-4db8-8841-3af2648fc0d9")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "Y2")
 					(unit 1)
@@ -26548,7 +26548,7 @@
 			(uuid "bbbad27f-653c-45f9-ac79-e667fc6ff81e")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR013")
 					(unit 1)
@@ -26626,7 +26626,7 @@
 			(uuid "1138a930-dfe0-424b-976f-f9ff16875add")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR04")
 					(unit 1)
@@ -26705,7 +26705,7 @@
 			(uuid "5ce04779-258a-4a2d-b586-7029142bf878")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR045")
 					(unit 1)
@@ -26784,7 +26784,7 @@
 			(uuid "27b05b24-c793-452f-90c2-23074c1d1485")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR044")
 					(unit 1)
@@ -26877,7 +26877,7 @@
 			(uuid "c70ae27e-1cb1-487a-bc74-f2581a9f7329")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R12")
 					(unit 1)
@@ -27490,7 +27490,7 @@
 			(uuid "2395e371-dad9-472d-9be2-aad180611ce9")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "U1")
 					(unit 1)
@@ -27569,7 +27569,7 @@
 			(uuid "53e184d7-2f59-4a7b-af29-f822f156e9cc")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0129")
 					(unit 1)
@@ -27648,7 +27648,7 @@
 			(uuid "8e5168a4-934f-448c-84e6-abcb87179896")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0117")
 					(unit 1)
@@ -27741,7 +27741,7 @@
 			(uuid "bac7726e-040a-49f6-a0e5-ee0a1cbaa754")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R2")
 					(unit 1)
@@ -27819,7 +27819,7 @@
 			(uuid "e055883a-8fdc-470d-9278-e90f18ec692f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR089")
 					(unit 1)
@@ -27898,7 +27898,7 @@
 			(uuid "c26651b9-9e14-444b-bc45-70b33b91abb4")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR038")
 					(unit 1)
@@ -27991,7 +27991,7 @@
 			(uuid "34ddb845-bfa1-42b7-9fed-a41075557d96")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C11")
 					(unit 1)
@@ -28084,7 +28084,7 @@
 			(uuid "e6d7a46e-eba4-478c-959b-5cfc98b94278")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C30")
 					(unit 1)
@@ -28163,7 +28163,7 @@
 			(uuid "79b5bb79-fc44-4a1d-8d8a-8260f4f48cb4")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0120")
 					(unit 1)
@@ -28242,7 +28242,7 @@
 			(uuid "ca152648-08ff-491a-a2b0-bdf7b4d30542")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR077")
 					(unit 1)
@@ -28321,7 +28321,7 @@
 			(uuid "84c81cf7-df0b-4cd2-8af3-282467ded383")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR01")
 					(unit 1)
@@ -28400,7 +28400,7 @@
 			(uuid "beb48261-3e8a-4fa1-8b70-30692cf612d7")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR021")
 					(unit 1)
@@ -28514,7 +28514,7 @@
 			(uuid "53cead47-8235-462c-b198-eb910f6fef2a")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "U2")
 					(unit 1)
@@ -28607,7 +28607,7 @@
 			(uuid "185a6b74-eaa0-4cc8-8246-b20571da5624")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C16")
 					(unit 1)
@@ -28686,7 +28686,7 @@
 			(uuid "1f252789-1215-4986-bbe4-3a603252fd7f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0128")
 					(unit 1)
@@ -28764,7 +28764,7 @@
 			(uuid "f21d11a6-303b-4a56-a014-24e5c57550c7")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR058")
 					(unit 1)
@@ -28842,7 +28842,7 @@
 			(uuid "67c1ea37-b377-4f3f-a653-467163b3966f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR016")
 					(unit 1)
@@ -28935,7 +28935,7 @@
 			(uuid "a7e51b35-0c56-4a4e-93a0-3febd3656b15")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R15")
 					(unit 1)
@@ -29013,7 +29013,7 @@
 			(uuid "9d2cb57c-de94-48d0-a351-f7cbb6896556")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0134")
 					(unit 1)
@@ -29106,7 +29106,7 @@
 			(uuid "d3a85c46-fbe8-4b66-baf2-bfd46b133e43")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C2")
 					(unit 1)
@@ -29204,7 +29204,7 @@
 			(uuid "a224fd75-e48d-471f-a2c8-d095bc664e85")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "Q3")
 					(unit 1)
@@ -29283,7 +29283,7 @@
 			(uuid "219f0936-1fb5-4db3-88cf-0aab59b859e6")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0121")
 					(unit 1)
@@ -29376,7 +29376,7 @@
 			(uuid "340a5ffb-3e8e-4132-b502-b064ed0f7fce")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C28")
 					(unit 1)
@@ -29469,7 +29469,7 @@
 			(uuid "e659fb67-3d66-48d9-acf2-f68e37a4ca7a")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C12")
 					(unit 1)
@@ -29547,7 +29547,7 @@
 			(uuid "a146a385-2541-4522-833d-1ecb1664c416")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR091")
 					(unit 1)
@@ -29626,7 +29626,7 @@
 			(uuid "caa35bd1-9ac7-4bbe-9f83-e0f1f5e63830")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0123")
 					(unit 1)
@@ -29743,7 +29743,7 @@
 			(uuid "b872ba9a-b3fd-4db8-a0d2-099ba384230d")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "J5")
 					(unit 1)
@@ -29834,7 +29834,7 @@
 			(uuid "0057cf39-ae11-4f15-8146-758933d7bebc")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "Y3")
 					(unit 1)
@@ -29927,7 +29927,7 @@
 			(uuid "a48624cb-0849-401a-9982-f1822b99a25f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R8")
 					(unit 1)
@@ -30006,7 +30006,7 @@
 			(uuid "e1ae28fb-33dd-4be5-aef2-86d0ce343308")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0125")
 					(unit 1)
@@ -30099,7 +30099,7 @@
 			(uuid "2fa9f085-7b79-49ca-86f0-9c1f884ebedb")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C4")
 					(unit 1)
@@ -30178,7 +30178,7 @@
 			(uuid "c27b4c51-8ebc-472f-add7-b30fd33bbbdd")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0100")
 					(unit 1)
@@ -30269,7 +30269,7 @@
 			(uuid "39bf1dc1-8eab-403d-b1c6-6deaf437ce34")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C40")
 					(unit 1)
@@ -30362,7 +30362,7 @@
 			(uuid "37e85bd0-526f-4f62-b5b4-f407d5d26ecf")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C35")
 					(unit 1)
@@ -30440,7 +30440,7 @@
 			(uuid "be10ea22-aba3-443c-9f54-acf02e992b7b")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR025")
 					(unit 1)
@@ -30531,7 +30531,7 @@
 			(uuid "abd0743a-7d02-46e7-871b-313a9248f13b")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C23")
 					(unit 1)
@@ -30609,7 +30609,7 @@
 			(uuid "67e04e49-139d-4ce9-b331-12d25649f379")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR084")
 					(unit 1)
@@ -30687,7 +30687,7 @@
 			(uuid "dd94b122-5c80-4c67-9b82-a70c7f531896")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR062")
 					(unit 1)
@@ -30766,7 +30766,7 @@
 			(uuid "28dc4d75-4fe4-4394-b9e7-4f005e7a4926")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR087")
 					(unit 1)
@@ -30845,7 +30845,7 @@
 			(uuid "29a039a3-5909-440d-89fb-4373433bf49c")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0110")
 					(unit 1)
@@ -30938,7 +30938,7 @@
 			(uuid "8841038d-f819-49d2-b2d0-b358f579366d")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C31")
 					(unit 1)
@@ -31031,7 +31031,7 @@
 			(uuid "bbd29735-80cd-4cf0-869e-72bc138fbbab")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C29")
 					(unit 1)
@@ -31130,7 +31130,7 @@
 			(uuid "197a62d3-ddde-443f-acc9-4d4056268b87")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "J6")
 					(unit 1)
@@ -31223,7 +31223,7 @@
 			(uuid "aa121bc4-83a8-42b2-a2da-8783fcc20191")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C15")
 					(unit 1)
@@ -31301,7 +31301,7 @@
 			(uuid "6e9bab6e-1f00-4bdb-a1fc-2386b56e60ec")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR060")
 					(unit 1)
@@ -31380,7 +31380,7 @@
 			(uuid "a43bbdd4-1572-49d7-95eb-af188eeca078")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0105")
 					(unit 1)
@@ -31458,7 +31458,7 @@
 			(uuid "4050b162-49e6-4775-90bc-ec9ba058ee08")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR072")
 					(unit 1)
@@ -31537,7 +31537,7 @@
 			(uuid "1b245191-6757-4e53-ae80-91908bdc8cdb")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR057")
 					(unit 1)
@@ -31629,7 +31629,7 @@
 			(uuid "a9d1b0a5-5b5e-4534-8df4-4887e7cc2618")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R10")
 					(unit 1)
@@ -31720,7 +31720,7 @@
 			(uuid "bc989f01-9832-4d97-a893-be3f3ce9d92b")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "L1")
 					(unit 1)
@@ -31798,7 +31798,7 @@
 			(uuid "ee5c76a3-662c-4323-861f-71260f4fcf8a")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR052")
 					(unit 1)
@@ -31875,7 +31875,7 @@
 			(uuid "350720e7-985d-41ad-b42b-548520d6c5a6")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "TP4")
 					(unit 1)
@@ -31968,7 +31968,7 @@
 			(uuid "e5f281d1-c59d-4545-b2de-026098a42d39")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C8")
 					(unit 1)
@@ -32061,7 +32061,7 @@
 			(uuid "223228bd-2890-4d40-a557-0bb3c3902a66")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R13")
 					(unit 1)
@@ -32154,7 +32154,7 @@
 			(uuid "db7cc69d-4da6-401c-96fa-3eb1ed4521fc")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C38")
 					(unit 1)
@@ -32233,7 +32233,7 @@
 			(uuid "79241713-e6fc-494b-85f8-b04be6d7b854")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR040")
 					(unit 1)
@@ -32312,7 +32312,7 @@
 			(uuid "2f6f15fd-1ac8-416b-b5b6-6fdd6754c85f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0116")
 					(unit 1)
@@ -32403,7 +32403,7 @@
 			(uuid "3776ae5f-3e35-4c22-9e15-83231644b363")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C22")
 					(unit 1)
@@ -32481,7 +32481,7 @@
 			(uuid "b5cd7e7a-7ef9-4e70-8e53-a5e170e1b649")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR075")
 					(unit 1)
@@ -32573,7 +32573,7 @@
 			(uuid "8bb32750-8a07-4f6e-bab0-29e2cda248ba")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R3")
 					(unit 1)
@@ -32664,7 +32664,7 @@
 			(uuid "dfe481f5-0103-4766-90c9-e6d5fd65f59f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R25")
 					(unit 1)
@@ -32742,7 +32742,7 @@
 			(uuid "e732e746-6204-4971-9edb-5c00790dbde6")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR026")
 					(unit 1)
@@ -32835,7 +32835,7 @@
 			(uuid "74a9a00c-a88b-4762-ac18-8f9a077d650e")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C26")
 					(unit 1)
@@ -32927,7 +32927,7 @@
 			(uuid "ffc6ce10-6523-496d-b789-7460337390a2")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R9")
 					(unit 1)
@@ -33000,7 +33000,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0402FR-075R1L"
 			(at 443.23 60.96 90)
 			(hide yes)
 			(show_name no)
@@ -33018,7 +33018,7 @@
 			(uuid "f350db6e-89dd-49ba-9c11-2793010d0255")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R22")
 					(unit 1)
@@ -33111,7 +33111,7 @@
 			(uuid "2c20deda-cf71-4845-8620-c38e830a9fa3")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C9")
 					(unit 1)
@@ -33202,7 +33202,7 @@
 			(uuid "c66329c7-1052-430c-8549-daaf877c5207")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C36")
 					(unit 1)
@@ -33280,7 +33280,7 @@
 			(uuid "e20c0573-5442-4671-b7a5-dbf7c9cc4dba")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR073")
 					(unit 1)
@@ -33358,7 +33358,7 @@
 			(uuid "625fa0d6-e740-4ffc-a402-80137b785279")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR035")
 					(unit 1)
@@ -33437,7 +33437,7 @@
 			(uuid "e2924f6f-0ffd-42f3-a52e-98178b777671")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0115")
 					(unit 1)
@@ -33516,7 +33516,7 @@
 			(uuid "4d618c93-36f2-44f3-b8a9-dbedbe1d8587")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0102")
 					(unit 1)
@@ -33829,7 +33829,7 @@
 			(uuid "ba332fa9-3667-41db-8a1e-041b0d710ce7")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "J1")
 					(unit 1)
@@ -33907,7 +33907,7 @@
 			(uuid "185d0086-73ad-49d2-8d8c-65d6cba0b814")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR071")
 					(unit 1)
@@ -33985,7 +33985,7 @@
 			(uuid "b79bd45f-8869-4e4f-81a5-c2ff2dda72b6")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR099")
 					(unit 1)
@@ -34063,7 +34063,7 @@
 			(uuid "ac94f663-e5cc-4f29-bf92-505458b47047")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR090")
 					(unit 1)
@@ -34141,7 +34141,7 @@
 			(uuid "cfb2852e-9675-468e-a523-a697bf15b513")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0131")
 					(unit 1)
@@ -34219,7 +34219,7 @@
 			(uuid "0d1c87d0-8793-4538-9e85-c796adf17a90")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR017")
 					(unit 1)
@@ -34297,7 +34297,7 @@
 			(uuid "b27919f9-288c-4981-9147-a459a1fbba57")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR047")
 					(unit 1)
@@ -34374,7 +34374,7 @@
 			(uuid "c50d2ba5-e976-4255-8485-ae0898c70fe9")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR096")
 					(unit 1)
@@ -34467,7 +34467,7 @@
 			(uuid "1ffd4584-93b3-4fad-83cc-5798a38488ce")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C20")
 					(unit 1)
@@ -34546,7 +34546,7 @@
 			(uuid "63f55809-75e8-42ab-bba9-a9d2fc4428d0")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0130")
 					(unit 1)
@@ -34625,7 +34625,7 @@
 			(uuid "6230598c-5871-436e-b4ea-9c0e882847a9")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR083")
 					(unit 1)
@@ -34718,7 +34718,7 @@
 			(uuid "51945b2b-cfa1-4e81-9df6-be212a914721")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C33")
 					(unit 1)
@@ -34809,7 +34809,7 @@
 			(uuid "ad120331-a2f2-4a04-ad75-fe97626f000d")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C25")
 					(unit 1)
@@ -34907,7 +34907,7 @@
 			(uuid "ccde67fa-ce7b-46aa-ba0e-50f145ea52ed")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "Q1")
 					(unit 1)
@@ -34986,7 +34986,7 @@
 			(uuid "35520b5c-998a-469d-8caa-4fe30bae13b9")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR019")
 					(unit 1)
@@ -35077,7 +35077,7 @@
 			(uuid "a07fa466-f697-4207-aab9-d61cd8ac0901")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C24")
 					(unit 1)
@@ -35155,7 +35155,7 @@
 			(uuid "e0e9ccea-506e-4d54-80cd-c2968849e12c")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR024")
 					(unit 1)
@@ -35234,7 +35234,7 @@
 			(uuid "d4249cda-bcd4-4295-84e7-03c251dbf2c1")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR037")
 					(unit 1)
@@ -35312,7 +35312,7 @@
 			(uuid "b4a1028b-6ea7-4310-bdb2-ecec9fa9d946")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR010")
 					(unit 1)
@@ -35390,7 +35390,7 @@
 			(uuid "4fa10090-f626-4c26-828f-ddc43982e936")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR036")
 					(unit 1)
@@ -35481,7 +35481,7 @@
 			(uuid "655944f5-3b6a-405d-b3c1-e2dd2b4ff612")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "SW2")
 					(unit 1)
@@ -35574,7 +35574,7 @@
 			(uuid "34dc8f2f-e573-40d9-836d-df1feab67431")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C17")
 					(unit 1)
@@ -35652,7 +35652,7 @@
 			(uuid "54b63c65-3494-4f68-bb1d-8fe940a83f9f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0133")
 					(unit 1)
@@ -35746,7 +35746,7 @@
 			(uuid "4d18e1a3-ea87-484e-9206-cf09a71a20bc")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R17")
 					(unit 1)
@@ -35839,7 +35839,7 @@
 			(uuid "25369441-75e4-4697-aa11-f05766e07566")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C34")
 					(unit 1)
@@ -35918,7 +35918,7 @@
 			(uuid "b9a9ce7b-5162-46e4-98c8-b43e767ee395")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0107")
 					(unit 1)
@@ -35996,7 +35996,7 @@
 			(uuid "b27feef7-3668-4eef-b839-c657d54ce510")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR09")
 					(unit 1)
@@ -36087,7 +36087,7 @@
 			(uuid "1bf0b9b5-6937-4b49-9651-f9bd0ab8223a")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R20")
 					(unit 1)
@@ -36178,7 +36178,7 @@
 			(uuid "fc78eb2b-4231-4773-9d30-15978ce36a44")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C37")
 					(unit 1)
@@ -36271,7 +36271,7 @@
 			(uuid "32ef1953-f6cf-42c2-a5c5-8b5fcff33236")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C19")
 					(unit 1)
@@ -36362,7 +36362,7 @@
 			(uuid "4d402a5d-01bf-4e45-8677-ed93d45c6e2b")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R16")
 					(unit 1)
@@ -36440,7 +36440,7 @@
 			(uuid "ca362c1f-8433-47d0-abfc-aab2be160bd4")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR098")
 					(unit 1)
@@ -36534,7 +36534,7 @@
 			(uuid "abf95fbd-c40b-48ce-9990-3e2c46b3835a")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R18")
 					(unit 1)
@@ -36627,7 +36627,7 @@
 			(uuid "1bc92e3c-54ba-497d-9f38-6203df633f6b")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C41")
 					(unit 1)
@@ -36705,7 +36705,7 @@
 			(uuid "e0c5a272-9058-4799-b267-97fbf25e64a0")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR08")
 					(unit 1)
@@ -36783,7 +36783,7 @@
 			(uuid "6a975d9f-ebd5-459d-867a-e32db368812a")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR014")
 					(unit 1)
@@ -37096,7 +37096,7 @@
 			(uuid "1c96844e-1f87-4cb6-b439-a7b57f23de1d")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "J2")
 					(unit 1)
@@ -37175,7 +37175,7 @@
 			(uuid "6d2ee4e7-000b-43ca-aa34-e8b97248ae87")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0113")
 					(unit 1)
@@ -37253,7 +37253,7 @@
 			(uuid "24f48263-959b-4014-aa8d-2231b8b577f2")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR054")
 					(unit 1)
@@ -37326,7 +37326,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0402FR-075R1L"
 			(at 463.55 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -37344,7 +37344,7 @@
 			(uuid "8a31b8cb-8d7c-4996-8e10-e81f73882bfb")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R21")
 					(unit 1)
@@ -37435,7 +37435,7 @@
 			(uuid "1f8952cd-90ad-486b-b21a-4f18681ed371")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "FB1")
 					(unit 1)
@@ -37513,7 +37513,7 @@
 			(uuid "81c9b1b6-a205-47e9-9010-2a5b82039796")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR076")
 					(unit 1)
@@ -37591,7 +37591,7 @@
 			(uuid "13832c6d-a60d-4a51-b99d-16828fb78af8")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR088")
 					(unit 1)
@@ -37669,7 +37669,7 @@
 			(uuid "122f86a9-b18b-44d3-9c32-915ea754e026")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR059")
 					(unit 1)
@@ -37748,7 +37748,7 @@
 			(uuid "2504a6f6-5a3f-4ca8-b615-30d605653621")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0119")
 					(unit 1)
@@ -37826,7 +37826,7 @@
 			(uuid "2d64924c-33e2-40dc-8e6d-50d8e3edc30f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR030")
 					(unit 1)
@@ -37919,7 +37919,7 @@
 			(uuid "ddb6b5cb-b16f-4826-a354-ccf58f3ec5f6")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R6")
 					(unit 1)
@@ -37998,7 +37998,7 @@
 			(uuid "7953587c-0b53-4a23-811e-6dd211ee947d")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0122")
 					(unit 1)
@@ -38076,7 +38076,7 @@
 			(uuid "62f99539-1cbe-445c-a4cd-b4a16e563536")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR055")
 					(unit 1)
@@ -38173,7 +38173,7 @@
 			(uuid "f67b63b9-ab4c-4707-b7dd-1bfd2112973a")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "D1")
 					(unit 1)
@@ -38251,7 +38251,7 @@
 			(uuid "729a62df-13ca-4b30-9ce6-8ee19b291fed")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR03")
 					(unit 1)
@@ -38330,7 +38330,7 @@
 			(uuid "f99a9ead-0cb0-49fb-99d9-05f7519a9dfd")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR079")
 					(unit 1)
@@ -38409,7 +38409,7 @@
 			(uuid "03a24a5b-bc53-4116-8781-9d356982821f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR082")
 					(unit 1)
@@ -38502,7 +38502,7 @@
 			(uuid "c558acac-e335-4b69-9f7f-aaf6a1cbfbd0")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C10")
 					(unit 1)
@@ -38581,7 +38581,7 @@
 			(uuid "099796c8-41bc-4964-a99b-19a7ea9d763e")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR043")
 					(unit 1)
@@ -38674,7 +38674,7 @@
 			(uuid "10369c36-5d6a-446b-b0cf-730a74913177")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C32")
 					(unit 1)
@@ -38751,7 +38751,7 @@
 			(uuid "0983d0b0-85f0-4a79-a527-a9b76e7b46f8")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "TP2")
 					(unit 1)
@@ -38828,7 +38828,7 @@
 			(uuid "16817faf-1133-49f2-b71c-2cc6f65cde11")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR061")
 					(unit 1)
@@ -38921,7 +38921,7 @@
 			(uuid "449681ee-2fe9-464d-8ec4-3e987720ddb9")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C18")
 					(unit 1)
@@ -38999,7 +38999,7 @@
 			(uuid "977cfe6f-81c1-4910-91c5-56fe7d7bf2fe")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR068")
 					(unit 1)
@@ -39077,7 +39077,7 @@
 			(uuid "c1c2c523-b2aa-4589-a3be-c38d5f4c747c")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR02")
 					(unit 1)
@@ -39155,7 +39155,7 @@
 			(uuid "e86ed0b0-9619-4fc3-815d-1bb7b62784db")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR063")
 					(unit 1)
@@ -39233,7 +39233,7 @@
 			(uuid "980d0a03-9036-4db6-be86-065f51ccdfeb")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#FLG01")
 					(unit 1)
@@ -39311,7 +39311,7 @@
 			(uuid "ca490465-86b7-43d4-87c5-e2e0735bcf21")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR032")
 					(unit 1)
@@ -39404,7 +39404,7 @@
 			(uuid "6906119b-d675-42b8-aa20-d8d1a78e635d")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C5")
 					(unit 1)
@@ -39481,7 +39481,7 @@
 			(uuid "2caf5fb7-4688-4f17-a1f4-6cf0f7fc19ea")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "TP1")
 					(unit 1)
@@ -39560,7 +39560,7 @@
 			(uuid "d7884599-6bc7-4b6b-b06d-9ac7014d8d20")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR020")
 					(unit 1)
@@ -39638,7 +39638,7 @@
 			(uuid "3e94b289-dcd3-429e-9716-2df926d9fd17")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR07")
 					(unit 1)
@@ -39717,7 +39717,7 @@
 			(uuid "3ee26afc-3c77-44ad-a5ac-2e1a7c40c051")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0112")
 					(unit 1)
@@ -39790,6 +39790,17 @@
 				)
 			)
 		)
+		(property "Part Number" "150141M173100"
+			(at 483.87 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "ca177903-80a8-42e5-bdbf-4dcddfae2ec5")
 		)
@@ -39803,7 +39814,7 @@
 			(uuid "40a21228-b641-4eb8-a636-4710e082d9a7")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "D3")
 					(unit 1)
@@ -39880,7 +39891,7 @@
 			(uuid "76b5809e-50b7-4c21-9a37-90323eaa812a")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR095")
 					(unit 1)
@@ -39973,7 +39984,7 @@
 			(uuid "78ea2d09-14ce-4015-8746-099eb509ce0d")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C7")
 					(unit 1)
@@ -40051,7 +40062,7 @@
 			(uuid "2dd221e1-d75f-49e1-ae4c-e01608283937")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0132")
 					(unit 1)
@@ -40124,7 +40135,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0402FR-0768RL"
 			(at 474.98 50.8 90)
 			(hide yes)
 			(show_name no)
@@ -40142,7 +40153,7 @@
 			(uuid "e6b7d9c9-27a1-4b68-b879-5fa9425c0d36")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R23")
 					(unit 1)
@@ -40221,7 +40232,7 @@
 			(uuid "e7ffb44f-9ac9-40aa-a29b-7e9e630173e1")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0103")
 					(unit 1)
@@ -40300,7 +40311,7 @@
 			(uuid "7dbfbb1a-830b-4433-abca-07887b21fac2")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0111")
 					(unit 1)
@@ -40391,7 +40402,7 @@
 			(uuid "9d1c239c-ff5e-40b2-a198-6ca39b09d969")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R24")
 					(unit 1)
@@ -40469,7 +40480,7 @@
 			(uuid "153e8231-75f1-4e85-991f-3d4507c0d3ad")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR049")
 					(unit 1)
@@ -40605,7 +40616,7 @@
 			(uuid "78bf2987-9e10-4c9a-80bd-14ce41aba36b")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "J4")
 					(unit 1)
@@ -40684,7 +40695,7 @@
 			(uuid "f52b2323-6bd8-4c66-a187-67f8559927a6")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR066")
 					(unit 1)
@@ -40762,7 +40773,7 @@
 			(uuid "3c3bcf46-6428-4e8b-9e09-79967c256bd8")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR012")
 					(unit 1)
@@ -40840,7 +40851,7 @@
 			(uuid "129c2982-f8b6-46b4-8ba1-f71a7784dd21")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR086")
 					(unit 1)
@@ -40919,7 +40930,7 @@
 			(uuid "e579cc3c-67d8-4a4b-98fe-9c10d0bbb7b6")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR042")
 					(unit 1)
@@ -41012,7 +41023,7 @@
 			(uuid "fd0bec97-0ef0-459d-ba55-84c23c5336f4")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C6")
 					(unit 1)
@@ -41103,7 +41114,7 @@
 			(uuid "19c01457-ffc4-453d-a4a1-5f9d7631bea0")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C39")
 					(unit 1)
@@ -41182,7 +41193,7 @@
 			(uuid "fc4ed785-99be-48e8-b0e0-1ead31203ff6")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0126")
 					(unit 1)
@@ -41261,7 +41272,7 @@
 			(uuid "afe917f9-c7a8-468c-8dc5-197cf8532902")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR039")
 					(unit 1)
@@ -41338,7 +41349,7 @@
 			(uuid "83c8dc00-9f6c-4241-b922-4baacedf498b")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR094")
 					(unit 1)
@@ -41416,7 +41427,7 @@
 			(uuid "cc6076c0-6c1c-46ad-be4c-20f4f19a44c6")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR046")
 					(unit 1)
@@ -41495,7 +41506,7 @@
 			(uuid "21fa509c-b22d-4799-b25d-c61a9be353d3")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR023")
 					(unit 1)
@@ -41574,7 +41585,7 @@
 			(uuid "82149f43-33d4-4c00-8337-a4b4ad393c94")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR022")
 					(unit 1)
@@ -41652,7 +41663,7 @@
 			(uuid "aaec06b7-240b-470e-ad10-668a14e8387f")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR029")
 					(unit 1)
@@ -41730,7 +41741,7 @@
 			(uuid "e35ddbe8-f092-4229-a2d0-3834571feed3")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR074")
 					(unit 1)
@@ -41807,7 +41818,7 @@
 			(uuid "f944ca57-9727-430e-bb2c-bfc2477e0b55")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR097")
 					(unit 1)
@@ -41885,7 +41896,7 @@
 			(uuid "9cf012d4-8b09-4ccc-8778-5d8132e8a430")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR06")
 					(unit 1)
@@ -41964,7 +41975,7 @@
 			(uuid "7e7c39dd-a641-43db-bbcb-3d5a2d2b69bb")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR050")
 					(unit 1)
@@ -42043,7 +42054,7 @@
 			(uuid "11b29e1e-65c6-41fc-83a0-170130f8f767")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0108")
 					(unit 1)
@@ -42122,7 +42133,7 @@
 			(uuid "36f21433-33ad-41fc-99f7-41d3a7c14d77")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0104")
 					(unit 1)
@@ -42200,7 +42211,7 @@
 			(uuid "8fa05bb0-f1f0-4960-8d3f-7e7a67027dcd")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR081")
 					(unit 1)
@@ -42297,7 +42308,7 @@
 			(uuid "f08692a8-bd18-4f52-952e-ccd8066e10db")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "Y1")
 					(unit 1)
@@ -42376,7 +42387,7 @@
 			(uuid "d885cc65-9bc0-4db3-8258-379ec063f70c")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR053")
 					(unit 1)
@@ -42455,7 +42466,7 @@
 			(uuid "6c88106e-e4b4-4d7a-866a-fc4a566ed6dc")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR0124")
 					(unit 1)
@@ -42534,7 +42545,7 @@
 			(uuid "fbd84f6f-b6c2-4293-9371-36a7dad99de9")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR034")
 					(unit 1)
@@ -42611,7 +42622,7 @@
 			(uuid "80669b2a-073f-4005-ab0a-127b18ce32ac")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR067")
 					(unit 1)
@@ -42704,7 +42715,7 @@
 			(uuid "ad276d4b-50fb-4ed5-9562-6ba979cffa9c")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "C1")
 					(unit 1)
@@ -42795,7 +42806,7 @@
 			(uuid "d998c538-61f4-4335-b1da-f16b8a2e6d78")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "R19")
 					(unit 1)
@@ -42873,7 +42884,7 @@
 			(uuid "57d99df3-3956-40d1-b4e9-d71634fb8b92")
 		)
 		(instances
-			(project "stm32h753_dev"
+			(project "stm32h743_can_hs"
 				(path "/dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
 					(reference "#PWR05")
 					(unit 1)

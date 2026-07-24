@@ -42,8 +42,8 @@ fp-info-cache
 # Local project settings
 *.kicad_prl
 
-# ibom
-bom/
+# ibom (root-level KiCad export dir only; anchored so docs/ assets are tracked)
+/bom/
 
-# pinion
-pinion/
+# pinion (root-level KiCad export dir only; anchored so docs/ assets are tracked)
+/pinion/

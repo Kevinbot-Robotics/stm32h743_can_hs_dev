@@ -1,2 +1,2 @@
 pinion@git+https://github.com/yaqwsx/Pinion
-
+InteractiveHtmlBom~=2.11.2

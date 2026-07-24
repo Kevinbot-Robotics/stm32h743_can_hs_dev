@@ -1,0 +1,4 @@
+- src: images/carousel/stm32h743-can-hs/kicad.png
+  alt: 3D render of the dev board in KiCAD
+- src: images/carousel/stm32h743-can-hs/kicad-flipped.png
+  alt: 3D render of the dev board in KiCAD, flipped

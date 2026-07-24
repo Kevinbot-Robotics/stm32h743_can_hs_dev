@@ -544,7 +544,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "stm32h753_dev.kicad_pro",
+    "filename": "stm32h743_can_hs.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -768,8 +768,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "stm32h753_dev.kicad_sch",
-        "name": "Root",
+        "filename": "stm32h743_can_hs.kicad_sch",
+        "name": "stm32h743_can_hs",
         "uuid": "dc5d011a-7c32-47ac-8cb1-a16ae165e4b2"
       }
     ],
@@ -779,7 +779,7 @@
   "sheets": [
     [
       "dc5d011a-7c32-47ac-8cb1-a16ae165e4b2",
-      "Root"
+      "stm32h743_can_hs"
     ]
   ],
   "text_variables": {},

@@ -236,7 +236,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7bf89640-cb6a-4f56-9814-51d081037ddf")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -407,7 +407,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/968875b2-4f31-4e41-9b05-1d02955d1960")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -578,7 +578,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6e980c7c-6431-4c05-8137-58e2cb474918")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -733,7 +733,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0402FR-075R1L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -749,7 +749,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8c65de64-a493-4872-99be-1c784170c1fe")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -920,7 +920,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/2ddc2a61-245d-44c9-a2d7-a7d5ed9bc286")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1091,7 +1091,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/534f5c66-ced5-4ca0-85f9-e01b8042554a")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1263,7 +1263,7 @@
 		(property ki_fp_filters "DSUB*Pins*")
 		(path "/66461082-f505-4a84-9184-0c914e929db0")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1681,7 +1681,7 @@
 		)
 		(path "/9f6c8831-1d4c-4db0-82ff-4dee42cb328b")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2030,7 +2030,7 @@
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/af5e1b78-9d73-402b-9fc3-349950ddf559")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2201,7 +2201,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a8c34bb4-6eda-4eb1-acce-8df813071f0d")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2372,7 +2372,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6e4b6043-f27b-497b-8459-b31f2cb0a044")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2543,7 +2543,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5a50e31e-4cf6-4824-a638-6186b9d1b1de")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2714,7 +2714,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8dd9637f-f374-4472-bedc-f04db69085b9")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2885,7 +2885,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8daa4a10-f5c4-4757-a643-c97400c4a90d")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3056,7 +3056,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a12a06d6-de3f-4c21-8a62-4c140d345a3f")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3227,7 +3227,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8a2b1893-021f-46f7-a0a4-49cf1c645d15")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3377,7 +3377,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/7b72ef49-d2e3-4ff7-9394-e25a57613e01")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3508,7 +3508,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9fa158e8-c1e6-4a69-b540-b180912c5f58")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3679,7 +3679,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4e30e326-e0e9-4177-9560-9eec9418ec4d")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3835,7 +3835,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0402FR-07300RL"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3851,7 +3851,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1e2a6b51-22ec-47ac-ad04-d6f47fb11070")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4006,7 +4006,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0402FR-075R1L"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4022,7 +4022,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/af4df611-b5e6-4e4f-baff-e04c8fa74f7f")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4188,7 +4188,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/db6fbc06-4c79-44dc-bcaf-bae2e316e493")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4588,7 +4588,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d11e4de5-e852-4a39-bc9f-066a9b4383d0")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4759,7 +4759,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6221c3a4-3f72-440c-acc1-71f50d6b7245")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4930,7 +4930,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/e4833945-93d1-4b7c-96f1-df687fae0ced")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5101,7 +5101,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7a0125a3-0910-4a42-bc5d-0081b8e8eb1a")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5272,7 +5272,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9af4e2ac-2206-4467-b925-4b9cef5865dd")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5443,7 +5443,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/86ef1745-c68d-4fa2-8ac8-d6ce6a105c63")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5614,7 +5614,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/30682bcd-b88d-4caf-a95a-346664b28c9e")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5785,7 +5785,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d5655977-8a4e-4776-9a2d-c70687f3d189")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5956,7 +5956,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/230b0a5a-2335-4c26-b36b-590e1954bf26")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6104,10 +6104,23 @@
 				)
 			)
 		)
+		(property "Part Number" "150141M173100"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab20bd08-c7dd-4294-9d2c-06e2c1b3cd63")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d2dae4a2-3ce8-40e8-9d83-a5156e1b8cc1")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6417,7 +6430,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/06ee795a-8d15-47c0-bee1-1c67347fc657")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6588,7 +6601,7 @@
 		(property ki_fp_filters "LQFP*24x24mm*P0.5mm*")
 		(path "/467acd71-0240-40a4-95b2-c68ad32dd8d7")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8777,7 +8790,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/998cca13-90ac-422d-9002-aa2569e8b558")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8948,7 +8961,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a799cbdc-78a7-48bc-bcd7-042eb4389d54")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9118,7 +9131,7 @@
 		(property ki_fp_filters "Oscillator*SMD*SeikoEpson*SG210*2.5x2.0mm*")
 		(path "/f460f83c-30cb-4a21-b0c2-44f3e81ee6cb")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9304,7 +9317,7 @@
 		(property ki_fp_filters "TI*SO*PowerPAD*")
 		(path "/5317990e-3c43-4df5-862e-f5f5d7b15e51")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9650,7 +9663,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/fd97f7a5-f35f-4325-a1c6-d64816c87296")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9821,7 +9834,7 @@
 		(property ki_fp_filters "*SOIC*5.3x5.3mm*P1.27mm*")
 		(path "/29ffc762-7488-4481-82a6-4732d330d440")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10216,7 +10229,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6a1e623a-56e8-4599-9ce8-42d7c76443c4")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10387,7 +10400,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/13497259-e210-40e4-9b69-9daf128c7d21")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10558,7 +10571,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/b8cecb29-84b4-47a6-8fa9-9b7ee6d90aab")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10953,7 +10966,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/01e24b19-60a7-4f32-bef4-8fcb0f8a00c7")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11328,7 +11341,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/6cb1b28a-2d81-49e3-a5bf-d2f53711fb9e")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11483,7 +11496,7 @@
 				)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0402FR-0768RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11499,7 +11512,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d6158db9-660b-450c-95e4-22511a0bd6f7")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11670,7 +11683,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3ef4a199-e583-4fc0-b5bc-fe70ae7c1eaa")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11841,7 +11854,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/87a6d88c-a0e5-4bd6-80f8-1cc5485bfa9b")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12004,7 +12017,7 @@
 		)
 		(path "/1417b0b0-c5a3-47db-b3ee-d39a54b488b4")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12353,7 +12366,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/229119e1-4711-4ac6-8d03-0950dc46f887")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12748,7 +12761,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/28146fb5-88f1-410b-80b3-11a99e929d4f")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12919,7 +12932,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a11db331-d385-47f9-b270-bc622cdbefc6")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13090,7 +13103,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/61d6a295-6178-41b7-b6f8-fcd91c7d133d")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13255,7 +13268,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/7a06c392-4eae-495f-9e36-96b4a0a2e059")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13469,7 +13482,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/833cb916-9825-4e38-a4e9-7c02abd733c2")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13640,7 +13653,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/73cb745c-51ab-416b-a865-a345af4b7812")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13811,7 +13824,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/58dcc0c5-a251-40d8-8460-c2c437572c55")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13982,7 +13995,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/7586580b-1f39-4da2-b5f2-5d733da8b173")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14269,7 +14282,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/e62d2639-c296-435d-9c6a-8a2c414624e8")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14440,7 +14453,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/70126062-0b0b-41c6-84bd-ab9e44fa92f0")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14606,7 +14619,7 @@
 		(property ki_fp_filters "USB*C*Receptacle*")
 		(path "/2a31d880-111a-4bb1-868e-c0254edc0d19")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15006,7 +15019,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/29923cbc-88f2-455d-9ae5-9c66cae98d30")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15177,7 +15190,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8a0d3970-0b3f-44e0-91ca-858875978609")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15348,7 +15361,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/31470df4-c577-4a83-8f61-a0804879919a")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15519,7 +15532,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a37963c7-e7d3-45cd-b4ab-a292adbb4bcb")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15690,7 +15703,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a627adee-adfd-4138-a883-9ab323a41e90")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15861,7 +15874,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/5eedd6e8-5537-4627-bc24-be132c921d3e")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16236,7 +16249,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7bdbdf0c-489f-47cc-92df-3574e753bc44")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16407,7 +16420,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/a4e55d95-d9a2-4b15-942d-72c1929c1375")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16578,7 +16591,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d95fb16d-00f4-49b1-85fe-64971e0199c0")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16749,7 +16762,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/9afb7470-0cbd-4406-9ebb-c49d625c6f79")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17124,7 +17137,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/bfce78c8-3daa-4f6b-b007-f9473ec12523")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17295,7 +17308,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b5774894-08dc-4547-a7a5-0ca390da0cbe")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17454,7 +17467,7 @@
 		(property ki_fp_filters "PinHeader?2x05?P1.27mm*")
 		(path "/0a2a2988-6658-496b-9435-ae411cf29445")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17766,7 +17779,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/25685163-e277-4d58-93a6-1e044e096578")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17937,7 +17950,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8543fb8f-36c7-4585-b4c2-4b3aa6393d39")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18108,7 +18121,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/21d7aa97-435e-4f46-8d23-0a706baab586")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18279,7 +18292,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/35b7b7ef-ef9d-4efb-b996-8609d2647d48")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18674,7 +18687,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fe81bed6-3749-435b-af51-c8e10453c4eb")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18845,7 +18858,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/45a61ae8-5abc-42f7-b62b-7e896ab01320")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19016,7 +19029,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/4c6b9efb-4115-495b-a110-72d206372f5a")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19187,7 +19200,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7741781c-e56c-4183-abe7-d1b01bf7fa26")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19372,7 +19385,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/14480541-59ea-4751-a6cd-d212d61132f2")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19586,7 +19599,7 @@
 		(property ki_fp_filters "SOT?5?3*")
 		(path "/322a12bc-a79c-4a26-8768-677288b38a16")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19949,7 +19962,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/31a547dc-0754-4d21-b7e0-13dcbea09401")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20120,7 +20133,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/7360a0d5-bbe8-44e1-950f-aab02df0b724")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20290,7 +20303,7 @@
 		(property ki_fp_filters "Oscillator*SMD*SeikoEpson*SG210*2.5x2.0mm*")
 		(path "/3f8f89b7-4614-472e-aa0e-3246c9951f4c")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20484,7 +20497,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/aa1ef5ad-cea2-4d9d-ba1a-4d6a1850646a")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20655,7 +20668,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/bc6427b7-f7b7-4f2b-bc09-3d53061aa19c")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20826,7 +20839,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c49a1a99-7e82-4631-a63e-18d9bd5bea90")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20989,7 +21002,7 @@
 		(property ki_fp_filters "Crystal*")
 		(path "/68720013-b8ae-49ea-b005-b903d0babd1d")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21218,7 +21231,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/489fdf3e-bd15-4aa0-9faf-2dbd34bf420b")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21389,7 +21402,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9c64a479-d452-4c09-a63a-ac22062421a0")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21560,7 +21573,7 @@
 		(property ki_fp_filters "*QFN*32*1EP*5x5mm*P0.5mm*")
 		(path "/3a3ffe5b-a00d-4d0e-9dae-5729333edcf3")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22379,7 +22392,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/906b4715-c2b0-4d9a-b56c-cb553333c116")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23457,7 +23470,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/c109f76b-2780-4eda-ad92-99e2b505c544")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24280,7 +24293,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/ab7f4b41-346c-47f9-96b0-a03c26885f08")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25358,7 +25371,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/3be18d85-be95-4c38-90eb-9ce8d2d5a31c")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25473,7 +25486,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/0c6913d7-9ce1-4d87-a588-986c4bb74b0a")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26050,7 +26063,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/d12654ab-4d8f-4deb-b25c-332603a0d683")
 		(sheetname "/")
-		(sheetfile "stm32h753_dev.kicad_sch")
+		(sheetfile "stm32h743_can_hs.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31917,6 +31930,22 @@
 		(layer "F.Cu")
 		(net "Net-(U2-FB)")
 		(uuid "f31600d0-6d73-4fc2-a3d4-bf6a57717a11")
+	)
+	(segment
+		(start 188.9125 81.7)
+		(end 187.91 81.7)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(D4-A)")
+		(uuid "87c7e068-026d-4ae8-a3c3-1aa6db036b8a")
+	)
+	(segment
+		(start 187.91 81.7)
+		(end 187.6 82.01)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(D4-A)")
+		(uuid "e7f90d02-364d-4a37-8ab2-3f48ef2d9f15")
 	)
 	(segment
 		(start 181.2875 114.7)
@@ -48329,22 +48358,6 @@
 		(layer "B.Cu")
 		(net "Net-(U4-EXTVBUS)")
 		(uuid "fffa883a-4c58-4196-8a94-afdbe9bef84d")
-	)
-	(segment
-		(start 188.9125 81.7)
-		(end 187.91 81.7)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(D4-A)")
-		(uuid "87c7e068-026d-4ae8-a3c3-1aa6db036b8a")
-	)
-	(segment
-		(start 187.91 81.7)
-		(end 187.6 82.01)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "Net-(D4-A)")
-		(uuid "e7f90d02-364d-4a37-8ab2-3f48ef2d9f15")
 	)
 	(zone
 		(net "VBUS_DFU")
