@@ -15,7 +15,7 @@ An STM32H743 development board with on-board USB-HS and CAN-FD (up to 8Mbit/s)
 {{< hextra/hero-button text="View Project on GitHub" link="https://github.com/meowmeowahr/stm32h743_can_hs_dev" >}}
 
 {{< callout type="warning" >}}
-  This design is still a work in progress, functionality has not yet been tested.
+  This design is still a work in progress, functionality has not been tested.
 {{< /callout >}}
 
 ## Features
@@ -40,3 +40,9 @@ The board may also be programmed/debugged using the MIPI-10 Cortex Debug connect
 
 The board supports any toolchain that supports the STM32H743 microcontroller, including the STM32CubeIDE and Zephyr.
 Zephyr device trees and board configurations will be available in the future.
+
+## License
+
+Hardware is licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) license.
+<br>
+Documentation is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.

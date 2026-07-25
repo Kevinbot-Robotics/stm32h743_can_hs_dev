@@ -8,6 +8,7 @@ An STM32H743 development board with on-board USB-HS and CAN-FD (up to 8Mbit/s)
 ## Documentation
 
 Docs are available on [kevinbot.net](https://kevinbot.net/dev/stm32h743-can-hs/).
+Documentation is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 ## Features
 

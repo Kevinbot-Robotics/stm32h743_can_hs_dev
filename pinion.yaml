@@ -1,5 +1,5 @@
 name: "STM32H743 CAN + USB-HS Dev Board"
-description: "Full pinout diagram"
+description: "STM32H743 CAN + USB-HS Dev Board - full pinout diagram"
 components:
     J1:
         description: Conn_02x38_Counter_Clockwise
@@ -241,9 +241,9 @@ components:
                 description: 'STM32 IO pin'
                 groups: ['io']
             '60':
-                name: GND
-                description: 'Ground'
-                groups: ['ground']
+                name: PF7
+                description: 'STM32 IO pin'
+                groups: ['io']
             '61':
                 name: nRESET
                 description: 'Reset core when low'

@@ -1,7 +1,7 @@
 {
     "pinionVersion": "0.4.0+11.g86a4ada",
     "name": "STM32H743 CAN + USB-HS Dev Board",
-    "description": "STM32H743 CAN + USB-HS Dev Board Full Pinout Diagram",
+    "description": "STM32H743 CAN + USB-HS Dev Board - full pinout diagram",
     "components": [
         {
             "ref": "J7",
@@ -24194,11 +24194,11 @@
                     ],
                     "front": true,
                     "back": true,
-                    "name": "GND",
-                    "description": "Ground",
+                    "name": "PF7",
+                    "description": "STM32 IO pin",
                     "alias": false,
                     "groups": [
-                        "ground"
+                        "io"
                     ]
                 },
                 {
