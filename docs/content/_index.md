@@ -1,5 +1,6 @@
 ---
 title: STM32H743 CAN + USB-HS Dev Board
+editURL: https://github.com/meowmeowahr/stm32h743_can_hs_dev/edit/master/docs/content/_index.md
 cascade:
   type: docs
 aliases:

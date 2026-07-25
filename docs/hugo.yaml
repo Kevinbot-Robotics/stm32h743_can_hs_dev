@@ -30,3 +30,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+params:
+  page:
+    contextMenu:
+      enable: true

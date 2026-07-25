@@ -1,5 +1,6 @@
 ---
 title: "Interactive BOM"
+editURL: https://github.com/meowmeowahr/stm32h743_can_hs_dev/edit/master/docs/content/ibom.md
 weight: 2
 ---
 
