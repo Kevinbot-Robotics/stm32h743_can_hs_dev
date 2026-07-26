@@ -709,8 +709,8 @@
         },
         {
           "group_by": true,
-          "label": "Part Number",
-          "name": "Part Number",
+          "label": "manf#",
+          "name": "manf#",
           "show": true
         },
         {
@@ -737,7 +737,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "manf#"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,

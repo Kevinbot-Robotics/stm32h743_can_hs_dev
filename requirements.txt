@@ -1,2 +1,3 @@
 pinion@git+https://github.com/yaqwsx/Pinion
 InteractiveHtmlBom~=2.11.2
+kicost~=1.1.21

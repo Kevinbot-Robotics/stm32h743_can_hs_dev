@@ -21999,7 +21999,7 @@
 				)
 			)
 		)
-		(property "Part Number" "BSS138PW,115"
+		(property "manf#" "BSS138PW,115"
 			(at 457.2 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -22364,7 +22364,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "75k"
+		(property "Value" "75k 1%"
 			(at 93.98 257.8099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22408,7 +22408,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-0775KL"
+		(property "manf#" "RC0402FR-0775KL"
 			(at 91.44 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -22657,7 +22657,7 @@
 				)
 			)
 		)
-		(property "Part Number" "FTSH-105-01-L-DV-K"
+		(property "manf#" "FTSH-105-01-L-DV-K"
 			(at 115.57 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -23008,7 +23008,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-0712KL"
+		(property "manf#" "RC0402FR-0712KL"
 			(at 193.04 252.73 0)
 			(hide yes)
 			(show_name no)
@@ -23101,8 +23101,8 @@
 				)
 			)
 		)
-		(property "Part Number" "PTS815SJM250SMTRLFS"
-			(at 45.72 170.18 0)
+		(property "manf#" "PTS815SJM250SMTRLFS"
+			(at 45.72 170.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23205,7 +23205,7 @@
 				)
 			)
 		)
-		(property "Part Number" "LTST-C190KRKT"
+		(property "manf#" "LTST-C190KRKT"
 			(at 538.48 62.23 90)
 			(hide yes)
 			(show_name no)
@@ -23691,8 +23691,8 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-07300RL"
-			(at 538.48 54.61 90)
+		(property "manf#" "RC0402JR-07300RL"
+			(at 538.48 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23938,8 +23938,8 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402JR-071KL"
-			(at 459.74 100.33 0)
+		(property "manf#" "RC0402JR-071KL"
+			(at 459.74 100.33 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24111,7 +24111,7 @@
 				)
 			)
 		)
-		(property "Part Number" "MCP2562-E/SN"
+		(property "manf#" "MCP2562-E/SN"
 			(at 330.2 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -24222,7 +24222,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 351.79 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -24472,7 +24472,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-075K1L"
+		(property "manf#" "RC0402JR-075K1L"
 			(at 334.01 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -24564,7 +24564,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-075K1L"
+		(property "manf#" "RC0402JR-075K1L"
 			(at 29.21 208.28 0)
 			(hide yes)
 			(show_name no)
@@ -24769,7 +24769,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "24k"
+		(property "Value" "24k 1%"
 			(at 36.576 215.9 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24813,7 +24813,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-0724KL"
+		(property "manf#" "RC0402FR-0724KL"
 			(at 34.29 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -24862,7 +24862,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "W25Q128JVS"
+		(property "Value" "S25FL128LAGMFI013"
 			(at 46.99 33.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24906,7 +24906,7 @@
 				)
 			)
 		)
-		(property "Part Number" "W25Q128JVSIQ TR"
+		(property "manf#" "S25FL128LAGMFI013"
 			(at 35.56 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -25015,7 +25015,7 @@
 				)
 			)
 		)
-		(property "Part Number" "USB4105-GF-A"
+		(property "manf#" "USB4105-GF-A"
 			(at 300.99 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -25309,7 +25309,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 210.82 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -25481,7 +25481,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-075K1L"
+		(property "manf#" "RC0402JR-075K1L"
 			(at 388.62 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -25574,7 +25574,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 142.24 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -25667,7 +25667,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71C103KA01D"
+		(property "manf#" "GRM155R71C103KA01D"
 			(at 88.9 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -25758,7 +25758,7 @@
 				)
 			)
 		)
-		(property "Part Number" "TPS2121RUXR"
+		(property "manf#" "TPS2121RUXR"
 			(at 64.77 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -26039,7 +26039,7 @@
 				)
 			)
 		)
-		(property "Part Number" "MMBZ27VCLT1G"
+		(property "manf#" "MMBZ27VCLT1G"
 			(at 341.63 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -26291,7 +26291,7 @@
 				)
 			)
 		)
-		(property "Part Number" "USB3300-EZK"
+		(property "manf#" "USB3300-EZK"
 			(at 213.36 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -26632,7 +26632,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 332.74 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -26722,8 +26722,8 @@
 				)
 			)
 		)
-		(property "Part Number" "SG-210STF 8.0000ML0"
-			(at 107.95 175.26 0)
+		(property "manf#" "SG-210STF 8.0000ML0"
+			(at 107.95 175.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27214,7 +27214,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402JR-070RL"
+		(property "manf#" "RC0402JR-070RL"
 			(at 179.07 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -27305,7 +27305,7 @@
 				)
 			)
 		)
-		(property "Part Number" "STM32H743IIT6"
+		(property "manf#" "STM32H743IIT6"
 			(at 158.75 111.76 90)
 			(hide yes)
 			(show_name no)
@@ -27955,7 +27955,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "24k"
+		(property "Value" "24k 1%"
 			(at 93.98 265.4299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27999,7 +27999,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-0724KL"
+		(property "manf#" "RC0402FR-0724KL"
 			(at 91.44 264.16 0)
 			(hide yes)
 			(show_name no)
@@ -28249,7 +28249,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 294.64 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -28342,7 +28342,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 142.24 254 0)
 			(hide yes)
 			(show_name no)
@@ -28751,7 +28751,7 @@
 				)
 			)
 		)
-		(property "Part Number" "ST1S40IDR"
+		(property "manf#" "ST1S40IDR"
 			(at 68.58 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -28865,7 +28865,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM188R61A105KA61D"
+		(property "manf#" "GRM188R61A105KA61D"
 			(at 21.59 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -29271,7 +29271,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402JR-0710KL"
+		(property "manf#" "RC0402JR-0710KL"
 			(at 57.15 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -29442,7 +29442,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 123.19 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -29537,7 +29537,7 @@
 				)
 			)
 		)
-		(property "Part Number" "BSS138PW,115"
+		(property "manf#" "BSS138PW,115"
 			(at 468.63 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -29712,7 +29712,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 229.87 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -29805,7 +29805,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 313.69 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -30055,7 +30055,7 @@
 				)
 			)
 		)
-		(property "Part Number" "A-DS 09 A/KG-T2S"
+		(property "manf#" "A-DS 09 A/KG-T2S"
 			(at 368.3 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -30170,7 +30170,7 @@
 				)
 			)
 		)
-		(property "Part Number" "FC-135 32.7680KA-A5"
+		(property "manf#" "FC-135 32.7680KA-A5"
 			(at 175.26 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -30263,7 +30263,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-075K1L"
+		(property "manf#" "RC0402JR-075K1L"
 			(at 388.62 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -30435,7 +30435,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 161.29 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -30605,7 +30605,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM1555C1H470JA01D"
+		(property "manf#" "GRM1555C1H470JA01D"
 			(at 303.53 147.32 90)
 			(hide yes)
 			(show_name no)
@@ -30698,7 +30698,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 80.01 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -30867,7 +30867,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 254 213.36 90)
 			(hide yes)
 			(show_name no)
@@ -31274,7 +31274,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 85.09 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -31367,7 +31367,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 248.92 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -31457,7 +31457,7 @@
 				)
 			)
 		)
-		(property "Part Number" "10129378-905001BLF"
+		(property "manf#" "10129378-905001BLF"
 			(at 287.02 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -31559,7 +31559,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM188R61A106ME69D"
+		(property "manf#" "GRM188R61A106ME69D"
 			(at 38.1 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -31921,7 +31921,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "24k"
+		(property "Value" "24k 1%"
 			(at 36.576 205.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31965,7 +31965,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-0724KL"
+		(property "manf#" "RC0402FR-0724KL"
 			(at 34.29 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -32056,7 +32056,7 @@
 				)
 			)
 		)
-		(property "Part Number" "VLS6045EX-3R3N"
+		(property "manf#" "VLS6045EX-3R3N"
 			(at 85.09 252.73 90)
 			(hide yes)
 			(show_name no)
@@ -32304,7 +32304,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 237.49 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -32397,7 +32397,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402JR-071KL"
+		(property "manf#" "RC0402JR-071KL"
 			(at 187.96 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -32490,7 +32490,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H472KA01D"
+		(property "manf#" "GRM155R71H472KA01D"
 			(at 389.89 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -32739,7 +32739,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 254 200.66 90)
 			(hide yes)
 			(show_name no)
@@ -32909,7 +32909,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-0730KL"
+		(property "manf#" "RC0402JR-0730KL"
 			(at 78.74 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -33000,8 +33000,8 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402JR-071KL"
-			(at 448.31 78.74 0)
+		(property "manf#" "RC0402JR-071KL"
+			(at 448.31 78.74 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33171,7 +33171,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 191.77 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -33263,7 +33263,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-075K1L"
+		(property "manf#" "RC0402JR-075K1L"
 			(at 29.21 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -33354,7 +33354,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-075R1L"
+		(property "manf#" "RC0402JR-075R1L"
 			(at 443.23 60.96 90)
 			(hide yes)
 			(show_name no)
@@ -33447,7 +33447,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 256.54 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -33538,7 +33538,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM1555C1H220JA16D"
+		(property "manf#" "GCM1555C1H220JA16D"
 			(at 182.88 60.96 90)
 			(hide yes)
 			(show_name no)
@@ -33943,7 +33943,7 @@
 				)
 			)
 		)
-		(property "Part Number" "PREC040DAAN-RC, Cut down to 2x38"
+		(property "manf#" "PREC040DAAN-RC"
 			(at 364.49 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -34349,7 +34349,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 63.5 36.83 0)
+		(at 69.85 36.83 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -34360,7 +34360,7 @@
 		(fields_autoplaced yes)
 		(uuid "91707c38-8e38-4664-ab77-7525777c263a")
 		(property "Reference" "#PWR099"
-			(at 63.5 43.18 0)
+			(at 69.85 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34371,7 +34371,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 63.5 41.91 0)
+			(at 69.85 41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -34381,7 +34381,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 36.83 0)
+			(at 69.85 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34392,7 +34392,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 36.83 0)
+			(at 69.85 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34403,7 +34403,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 63.5 36.83 0)
+			(at 69.85 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34881,7 +34881,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 111.76 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -35132,7 +35132,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155C80J225KE95D"
+		(property "manf#" "GRM155C80J225KE95D"
 			(at 229.87 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -35223,7 +35223,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R60J475ME47D"
+		(property "manf#" "GRM155R60J475ME47D"
 			(at 254 238.76 90)
 			(hide yes)
 			(show_name no)
@@ -35318,7 +35318,7 @@
 				)
 			)
 		)
-		(property "Part Number" "BSS138PW,115"
+		(property "manf#" "BSS138PW,115"
 			(at 436.88 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -35491,7 +35491,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 254 226.06 90)
 			(hide yes)
 			(show_name no)
@@ -35895,7 +35895,7 @@
 				)
 			)
 		)
-		(property "Part Number" "PTS815SJM250SMTRLFS"
+		(property "manf#" "PTS815SJM250SMTRLFS"
 			(at 45.72 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -35988,7 +35988,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM1555C1H180FA01D"
+		(property "manf#" "GRM1555C1H180FA01D"
 			(at 102.87 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -36160,7 +36160,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402JR-070RL"
+		(property "manf#" "RC0402JR-070RL"
 			(at 171.45 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -36253,7 +36253,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 34.29 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -36458,7 +36458,7 @@
 				)
 			)
 		)
-		(property "Value" "60.4R"
+		(property "Value" "60.4R 1%"
 			(at 393.7 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36501,7 +36501,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-0760R4L"
+		(property "manf#" "RC0402FR-0760R4L"
 			(at 393.7 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -36592,7 +36592,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GCM1555C1H220JA16D"
+		(property "manf#" "GCM1555C1H220JA16D"
 			(at 167.64 60.96 90)
 			(hide yes)
 			(show_name no)
@@ -36685,7 +36685,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 92.71 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -36776,7 +36776,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402JR-0710KL"
+		(property "manf#" "RC0402JR-0710KL"
 			(at 45.72 151.13 90)
 			(hide yes)
 			(show_name no)
@@ -36804,7 +36804,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 63.5 29.21 0)
+		(at 69.85 29.21 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -36815,7 +36815,7 @@
 		(fields_autoplaced yes)
 		(uuid "a87fe038-435b-4fce-a89d-63b7e8ec626d")
 		(property "Reference" "#PWR098"
-			(at 63.5 33.02 0)
+			(at 69.85 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36826,7 +36826,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 63.5 24.13 0)
+			(at 69.85 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36836,7 +36836,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 29.21 0)
+			(at 69.85 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36847,7 +36847,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 29.21 0)
+			(at 69.85 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36858,7 +36858,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 63.5 29.21 0)
+			(at 69.85 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36948,7 +36948,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402JR-070RL"
+		(property "manf#" "RC0402JR-070RL"
 			(at 97.79 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -36976,7 +36976,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 63.5 33.02 0)
+		(at 69.85 33.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -36987,7 +36987,7 @@
 		(fields_autoplaced yes)
 		(uuid "aa1ef5ad-cea2-4d9d-ba1a-4d6a1850646a")
 		(property "Reference" "C41"
-			(at 67.31 31.7499 0)
+			(at 73.66 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36998,7 +36998,7 @@
 			)
 		)
 		(property "Value" "100nF 50v"
-			(at 67.31 34.2899 0)
+			(at 73.66 34.2899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -37009,7 +37009,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 64.4652 36.83 0)
+			(at 70.8152 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37020,7 +37020,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 33.02 0)
+			(at 69.85 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37031,7 +37031,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 63.5 33.02 0)
+			(at 69.85 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37041,8 +37041,8 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
-			(at 63.5 33.02 0)
+		(property "manf#" "GRM155R71H104KE14D"
+			(at 69.85 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37288,7 +37288,7 @@
 				)
 			)
 		)
-		(property "Part Number" "PREC040DAAN-RC, Cut down to 2x38"
+		(property "manf#" "PREC040DAAN-RC"
 			(at 325.12 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -37758,7 +37758,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-075R1L"
+		(property "manf#" "RC0402JR-075R1L"
 			(at 463.55 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -37849,7 +37849,7 @@
 				)
 			)
 		)
-		(property "Part Number" "BBHV00160808601Y00"
+		(property "manf#" "BBHV00160808601Y00"
 			(at 26.67 74.93 90)
 			(hide yes)
 			(show_name no)
@@ -38333,7 +38333,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-075K1L"
+		(property "manf#" "RC0402JR-075K1L"
 			(at 334.01 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -38584,7 +38584,7 @@
 				)
 			)
 		)
-		(property "Part Number" "MMBZ27VCLT1G"
+		(property "manf#" "MMBZ27VCLT1G"
 			(at 321.31 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -38916,7 +38916,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 275.59 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -39088,7 +39088,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155C80J225KE95D"
+		(property "manf#" "GRM155C80J225KE95D"
 			(at 242.57 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -39413,7 +39413,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM188R60J226MEA0J"
+		(property "manf#" "GRM188R60J226MEA0J"
 			(at 114.3 260.35 0)
 			(hide yes)
 			(show_name no)
@@ -39818,7 +39818,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 180.34 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -40222,7 +40222,7 @@
 				)
 			)
 		)
-		(property "Part Number" "150141M173100"
+		(property "manf#" "150141M173100"
 			(at 483.87 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -40398,7 +40398,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 218.44 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -40567,7 +40567,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-0768RL"
+		(property "manf#" "RC0402JR-0768RL"
 			(at 474.98 50.8 90)
 			(hide yes)
 			(show_name no)
@@ -40816,8 +40816,8 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402JR-071KL"
-			(at 427.99 66.04 0)
+		(property "manf#" "RC0402JR-071KL"
+			(at 427.99 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40985,7 +40985,7 @@
 				)
 			)
 		)
-		(property "Part Number" "USB4105-GF-A"
+		(property "manf#" "USB4105-GF-A"
 			(at 355.6 220.98 0)
 			(hide yes)
 			(show_name no)
@@ -41437,7 +41437,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 199.39 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -41528,7 +41528,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM1555C1H470JA01D"
+		(property "manf#" "GRM1555C1H470JA01D"
 			(at 295.91 147.32 90)
 			(hide yes)
 			(show_name no)
@@ -42716,7 +42716,7 @@
 				)
 			)
 		)
-		(property "Part Number" "SG-210STF 24.0000ML0"
+		(property "manf#" "SG-210STF 24.0000ML0"
 			(at 154.94 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -43129,7 +43129,7 @@
 				)
 			)
 		)
-		(property "Part Number" "GRM155R71H104KE14D"
+		(property "manf#" "GRM155R71H104KE14D"
 			(at 104.14 317.5 0)
 			(hide yes)
 			(show_name no)
@@ -43177,7 +43177,7 @@
 				)
 			)
 		)
-		(property "Value" "60.4R"
+		(property "Value" "60.4R 1%"
 			(at 386.08 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43220,7 +43220,7 @@
 				)
 			)
 		)
-		(property "Part Number" "RC0402FR-0760R4L"
+		(property "manf#" "RC0402FR-0760R4L"
 			(at 386.08 156.21 90)
 			(hide yes)
 			(show_name no)
