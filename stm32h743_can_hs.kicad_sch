@@ -16710,16 +16710,6 @@
 	)
 	(wire
 		(pts
-			(xy 299.72 177.8) (xy 287.02 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ddc925d-9212-4b06-8746-380ccd226933")
-	)
-	(wire
-		(pts
 			(xy 237.49 148.59) (xy 242.57 153.67)
 		)
 		(stroke
@@ -17387,16 +17377,6 @@
 			(type default)
 		)
 		(uuid "b826dc05-c423-4f83-93ec-7d603982a4af")
-	)
-	(wire
-		(pts
-			(xy 299.72 180.34) (xy 287.02 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b91064f0-f0ea-434c-9bae-1824e3597d83")
 	)
 	(wire
 		(pts
@@ -19859,16 +19839,6 @@
 		)
 		(uuid "67033133-8ba0-4d72-a2f2-a79ed496b15d")
 	)
-	(label "CAN_TX"
-		(at 299.72 180.34 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "67390a2c-75da-413f-b17c-ce6b75f58ae9")
-	)
 	(label "PI0"
 		(at 72.39 156.21 90)
 		(effects
@@ -20229,7 +20199,7 @@
 		)
 		(uuid "8038759e-5ca6-401a-80ad-a0a0eefe2a31")
 	)
-	(label "PI9"
+	(label "CAN_RX"
 		(at 95.25 156.21 90)
 		(effects
 			(font
@@ -20499,7 +20469,7 @@
 		)
 		(uuid "94183a36-d130-493c-a240-8669bb3506e5")
 	)
-	(label "PH13"
+	(label "CAN_TX"
 		(at 138.43 160.02 90)
 		(effects
 			(font
@@ -20732,16 +20702,6 @@
 			(justify right bottom)
 		)
 		(uuid "a714c03f-fd33-466b-af03-46547c949154")
-	)
-	(label "CAN_RX"
-		(at 299.72 177.8 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a72c6c70-3e12-4aa9-993e-55555e06d595")
 	)
 	(label "PD7"
 		(at 346.71 45.72 0)
@@ -21603,26 +21563,6 @@
 			(justify left bottom)
 		)
 		(uuid "eccd70fd-6155-4fd1-bfe8-07b3522abd5c")
-	)
-	(label "PH13"
-		(at 287.02 180.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ed0dd266-38f3-469a-895a-bdf8a10c2af2")
-	)
-	(label "PI9"
-		(at 287.02 177.8 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ee22aebe-5995-4101-b911-e05aeb3379b1")
 	)
 	(label "BOOT0"
 		(at 57.15 158.75 90)
