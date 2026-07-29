@@ -1,6 +1,6 @@
 ---
 title: STM32H743 CAN + USB-HS Dev Board
-editURL: https://github.com/meowmeowahr/stm32h743_can_hs_dev/edit/master/docs/content/_index.md
+editURL: https://github.com/Kevinbot-Robotics/stm32h743_can_hs_dev/edit/master/docs/content/_index.md
 cascade:
   type: docs
 aliases:
@@ -13,7 +13,7 @@ An STM32H743 development board with on-board USB-HS and CAN-FD (up to 8Mbit/s)
 
 {{< carousel gallery="stm32h743-can-hs" >}}
 
-{{< hextra/hero-button text="View Project on GitHub" link="https://github.com/meowmeowahr/stm32h743_can_hs_dev" >}}
+{{< hextra/hero-button text="View Project on GitHub" link="https://github.com/Kevinbot-Robotics/stm32h743_can_hs_dev" >}}
 
 {{< callout type="warning" >}}
   This design is still a work in progress, functionality has not been tested.

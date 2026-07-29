@@ -1,6 +1,6 @@
 ---
 title: "Pinout"
-editURL: https://github.com/meowmeowahr/stm32h743_can_hs_dev/edit/master/docs/content/pinout.md
+editURL: https://github.com/Kevinbot-Robotics/stm32h743_can_hs_dev/edit/master/docs/content/pinout.md
 weight: 1
 prev: /dev/stm32h743-can-hs
 ---
