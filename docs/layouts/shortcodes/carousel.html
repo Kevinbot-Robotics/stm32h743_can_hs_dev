@@ -5,13 +5,14 @@
 {{ if not $images }}
   {{ errorf "Carousel gallery '%s' not found" }}
 {{ end }}
-
+{{ $splide := resources.Get "js/splide.min.js" }}
+{{ $splidecss := resources.Get "css/splide.min.css" }}
 <link
   rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
+  href="{{ $splidecss.RelPermalink }}">
 
 <script
-  src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"
+  src="{{ $splide.RelPermalink }}"
   defer>
 </script>
 
