@@ -6250,7 +6250,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Interface_CAN_LIN:MCP2562-E-SN"
+		(symbol "Interface_CAN_TI:TCAN1044AEV"
 			(pin_names
 				(offset 1.016)
 			)
@@ -6270,7 +6270,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "MCP2562-E-SN"
+			(property "Value" "TCAN1044AEV"
 				(at 2.54 8.89 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6293,7 +6293,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/25167A.pdf"
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tcan1044aev-q1.pdf"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6304,7 +6304,7 @@
 					)
 				)
 			)
-			(property "Description" "High-Speed CAN Transceiver, 1Mbps, 5V supply, Vio pin, -40C to +125C, SOIC-8"
+			(property "Description" "High-Speed CAN Transceiver, 1Mbps, 5V supply, Vio pin, -40C to +150C, SOIC-8"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6337,7 +6337,7 @@
 					)
 				)
 			)
-			(symbol "MCP2562-E-SN_0_1"
+			(symbol "TCAN1044AEV_0_1"
 				(rectangle
 					(start -10.16 7.62)
 					(end 10.16 -7.62)
@@ -6350,7 +6350,7 @@
 					)
 				)
 			)
-			(symbol "MCP2562-E-SN_1_1"
+			(symbol "TCAN1044AEV_1_1"
 				(pin input line
 					(at -12.7 5.08 0)
 					(length 2.54)
@@ -6480,7 +6480,7 @@
 				(pin input line
 					(at -12.7 -5.08 0)
 					(length 2.54)
-					(name "STBY"
+					(name "STB"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -23991,7 +23991,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Interface_CAN_LIN:MCP2562-E-SN")
+		(lib_id "Interface_CAN_TI:TCAN1044AEV")
 		(at 330.2 167.64 0)
 		(unit 1)
 		(body_style 1)
@@ -24036,7 +24036,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/25167A.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tcan1044aev-q1.pdf"
 			(at 330.2 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -24047,7 +24047,7 @@
 				)
 			)
 		)
-		(property "Description" "High-Speed CAN Transceiver, 1Mbps, 5V supply, Vio pin, -40C to +125C, SOIC-8"
+		(property "Description" "High-Speed CAN Transceiver, 1Mbps, 5V supply, Vio pin, -40C to +150C, SOIC-8"
 			(at 330.2 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -24058,7 +24058,7 @@
 				)
 			)
 		)
-		(property "manf#" "MCP2562-E/SN"
+		(property "manf#" "TCAN1044AVDRQ1"
 			(at 330.2 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -36393,10 +36393,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a37963c7-e7d3-45cd-b4ab-a292adbb4bcb")
 		(property "Reference" "R20"
-			(at 393.7 149.86 90)
+			(at 395.732 149.86 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -36406,7 +36405,7 @@
 			)
 		)
 		(property "Value" "60.4R 1%"
-			(at 393.7 152.4 90)
+			(at 395.732 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43112,10 +43111,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "fe81bed6-3749-435b-af51-c8e10453c4eb")
 		(property "Reference" "R19"
-			(at 386.08 149.86 90)
+			(at 383.794 149.86 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -43125,7 +43123,7 @@
 			)
 		)
 		(property "Value" "60.4R 1%"
-			(at 386.08 152.4 90)
+			(at 383.794 152.4 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
