@@ -24013,7 +24013,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MCP2562-E-SN"
+		(property "Value" "TCAN1044AVDRQ1"
 			(at 332.3433 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
