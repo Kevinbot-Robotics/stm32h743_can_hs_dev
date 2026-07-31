@@ -1,3 +1,5 @@
+![Board Image](docs/static/images/carousel/stm32h743-can-hs/kicad.png)
+
 # STM32H743 USB-HS CANbus Dev Board
 
 An STM32H743 development board with on-board USB-HS and CAN-FD (up to 8Mbit/s)
