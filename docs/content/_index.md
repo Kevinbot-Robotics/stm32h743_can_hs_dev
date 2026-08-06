@@ -19,6 +19,39 @@ An STM32H743 development board with on-board USB-HS and CAN-FD (up to 8Mbit/s)
   This design is still a work in progress, functionality has not been tested.
 {{< /callout >}}
 
+---
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 1em;">
+    <a href="https://certification.oshwa.org/us002841.html">
+    <img src="/images/cert-mark.svg" class="light-only" alt="OSHW US2841" style="border-radius: 0px;" width="200">
+    <img src="/images/cert-mark-dark.svg" class="dark-only" alt="OSHW US2841" style="border-radius: 0px;" width="200">
+    </a>
+    <p>This project is <a href="https://certification.oshwa.org/us002841.html">certified</a> by the Open Source Hardware Association</p>
+</div>
+
+<style>
+
+.light-only {
+  display: block;
+}
+
+.dark-only {
+  display: none;
+}
+
+.dark .light-only,
+html.dark .light-only {
+  display: none;
+}
+
+.dark .dark-only,
+html.dark .dark-only {
+  display: block;
+}
+</style>
+
+---
+
 ## Features
 
 * STM32H743 microcontroller with 116 I/O pins exposed
@@ -41,6 +74,29 @@ The board may also be programmed/debugged using the MIPI-10 Cortex Debug connect
 
 The board supports any toolchain that supports the STM32H743 microcontroller, including the STM32CubeIDE and Zephyr.
 Zephyr device trees and board configurations will be available in the future.
+
+## Design Resources
+
+{{< cards cols="3" >}}
+  {{< card
+    title="Simplified CAD Model"
+    subtitle="Simplified 3D CAD model with passive components removed, STEP format"
+    image="/images/resources/simplified-cad.png"
+    link="https://raw.githubusercontent.com/Kevinbot-Robotics/stm32h743_can_hs_dev/refs/heads/master/stm32h743_can_hs_simplified.step"
+  >}}
+  {{< card
+    title="Full CAD Model"
+    subtitle="Complete 3D CAD model including passive components, STEP format"
+    image="/images/resources/complete-cad.png"
+    link="https://raw.githubusercontent.com/Kevinbot-Robotics/stm32h743_can_hs_dev/refs/heads/master/stm32h743_can_hs_full.step"
+  >}}
+  {{< card
+    title="KiCAD Symbol & Footprint"
+    subtitle="Coming Soon!<br>KiCAD 10 Symbol, Footprint, and 3D Model"
+    image="/images/resources/coming-soon.png"
+  >}}
+{{< /cards >}}
+
 
 ## License
 
