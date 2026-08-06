@@ -5,7 +5,7 @@
 An STM32H743 development board with on-board USB-HS and CAN-FD (up to 8Mbit/s)
 
 > [!CAUTION]
-> This project is still in development. Boards and schematics are not complete.
+> This project is still in development. Boards have not been tested.
 
 ## Documentation
 
