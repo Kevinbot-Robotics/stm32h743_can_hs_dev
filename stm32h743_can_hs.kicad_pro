@@ -596,7 +596,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.199416,
+        "track_width": 0.212317,
         "tuning_profile": ""
       }
     ],
@@ -638,7 +638,7 @@
       "netlist": "",
       "plot": "./",
       "specctra_dsn": "",
-      "step": "",
+      "step": "stm32h743_can_hs_full.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -799,33 +799,6 @@
     "meta": {
       "version": 0
     },
-    "tuning_profiles_impedance_geometric": [
-      {
-        "enable_time_domain_tuning": true,
-        "layer_entries": [
-          {
-            "bottom_reference_layer": "In1.Cu",
-            "delay": 5787400,
-            "diff_pair_gap": 0,
-            "signal_layer": "F.Cu",
-            "top_reference_layer": "UNDEFINED",
-            "width": 196726
-          },
-          {
-            "bottom_reference_layer": "UNDEFINED",
-            "delay": 5787400,
-            "diff_pair_gap": 0,
-            "signal_layer": "B.Cu",
-            "top_reference_layer": "In2.Cu",
-            "width": 196726
-          }
-        ],
-        "profile_name": "ULPI",
-        "target_impedance": 50.0,
-        "type": 0,
-        "via_overrides": [],
-        "via_prop_delay": 0
-      }
-    ]
+    "tuning_profiles_impedance_geometric": []
   }
 }

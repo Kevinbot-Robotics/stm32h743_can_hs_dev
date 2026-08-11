@@ -47,3 +47,5 @@ fp-info-cache
 
 # pinion (root-level KiCad export dir only; anchored so docs/ assets are tracked)
 /pinion/
+
+/*production/
