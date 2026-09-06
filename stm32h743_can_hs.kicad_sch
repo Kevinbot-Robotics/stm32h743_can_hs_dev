@@ -12363,7 +12363,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Regulator_Switching_ST:ST1S40IDR"
+		(symbol "Regulator_Switching_ST:ST1S40IPHR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -12380,7 +12380,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "ST1S40IDR"
+			(property "Value" "ST1S40IPHR"
 				(at -0.635 5.715 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -12448,7 +12448,7 @@
 					)
 				)
 			)
-			(symbol "ST1S40IDR_0_1"
+			(symbol "ST1S40IPHR_0_1"
 				(rectangle
 					(start 10.16 4.445)
 					(end -10.16 -7.62)
@@ -12461,7 +12461,7 @@
 					)
 				)
 			)
-			(symbol "ST1S40IDR_1_1"
+			(symbol "ST1S40IPHR_1_1"
 				(pin power_in line
 					(at -12.7 0 0)
 					(length 2.54)
@@ -28632,7 +28632,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Regulator_Switching_ST:ST1S40IDR")
+		(lib_id "Regulator_Switching_ST:ST1S40IPHR")
 		(at 68.58 255.27 0)
 		(unit 1)
 		(body_style 1)
@@ -28653,7 +28653,7 @@
 				)
 			)
 		)
-		(property "Value" "ST1S40IDR"
+		(property "Value" "ST1S40IPHR"
 			(at 68.58 248.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28698,7 +28698,7 @@
 				)
 			)
 		)
-		(property "manf#" "ST1S40IDR"
+		(property "manf#" "ST1S40IPHR"
 			(at 68.58 255.27 0)
 			(hide yes)
 			(show_name no)

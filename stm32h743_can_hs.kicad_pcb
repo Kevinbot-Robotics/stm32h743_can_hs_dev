@@ -121,7 +121,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55ffffdf_ffffffff)
 			(plot_on_all_layers_selection 0x00000000_00000000_0000000a_a0aaaaff)
@@ -9733,7 +9732,7 @@
 				)
 			)
 		)
-		(property "Value" "ST1S40IDR"
+		(property "Value" "ST1S40IPHR"
 			(at 4.7 5.39 90)
 			(layer "F.Fab")
 			(uuid "fa8c3451-fce4-4523-91e4-eb9425276ee0")
@@ -9783,7 +9782,7 @@
 				)
 			)
 		)
-		(property "manf#" "ST1S40IDR"
+		(property "manf#" "ST1S40IPHR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
