@@ -21957,6 +21957,17 @@
 				)
 			)
 		)
+		(property "manf_alt1#" "2V7002WT1G"
+			(at 457.2 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "c82c8526-5d54-4a79-9f31-17663fc05d38")
 		)
@@ -29495,6 +29506,17 @@
 				)
 			)
 		)
+		(property "manf_alt1#" "2V7002WT1G"
+			(at 468.63 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "be48d035-f26e-4a8c-a6f8-0f67bbe7b703")
 		)
@@ -35266,6 +35288,17 @@
 			)
 		)
 		(property "manf#" "BSS138PW,115"
+			(at 436.88 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "manf_alt1#" "2V7002WT1G"
 			(at 436.88 66.04 0)
 			(hide yes)
 			(show_name no)

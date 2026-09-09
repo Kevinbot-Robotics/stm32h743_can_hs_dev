@@ -735,6 +735,12 @@
           "label": "Sim.Pins",
           "name": "Sim.Pins",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "manf_alt1#",
+          "name": "manf_alt1#",
+          "show": false
         }
       ],
       "filter_string": "",
