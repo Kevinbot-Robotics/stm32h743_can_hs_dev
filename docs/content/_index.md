@@ -15,10 +15,6 @@ An STM32H743 development board with on-board USB-HS and CAN-FD (up to 8Mbit/s)
 
 {{< hextra/hero-button text="View Project on GitHub" link="https://github.com/Kevinbot-Robotics/stm32h743_can_hs_dev" >}}
 
-{{< callout type="warning" >}}
-  This design is still a work in progress, functionality has not been tested.
-{{< /callout >}}
-
 ---
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1em;">
@@ -97,6 +93,15 @@ Zephyr device trees and board configurations will be available in the future.
   >}}
 {{< /cards >}}
 
+---
+
+<img src="/images/pcbway-logo.webp" alt="PCBWay logo" width=300/>
+
+Prototypes for this project were sponsored by [PCBWay](https://www.pcbway.com/).
+
+With their high-quality advanced PCB fabrication, fast turnaround, and excellent customer service, I recommend them for all of your PCB needs.
+
+[Order online here, for as low at $5](https://www.pcbway.com/orderonline.aspx)
 
 ## License
 

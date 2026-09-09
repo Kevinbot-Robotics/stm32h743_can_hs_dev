@@ -1,3 +1,11 @@
+- src: images/carousel/stm32h743-can-hs/stm32h743_can_hs_promo.webp
+  alt: Front cover image of the dev board
+- src: images/carousel/stm32h743-can-hs/stm32h743_can_hs.png
+  alt: Front view of the dev board
+- src: images/carousel/stm32h743-can-hs/stm32h743_can_hs_back.png
+  alt: Back view of the dev board
+- src: images/carousel/stm32h743-can-hs/stm32h743_can_hs_pcbway_promo.png
+  alt: Image of PCBs and stencil on top of stencil packaging
 - src: images/carousel/stm32h743-can-hs/kicad.png
   alt: 3D render of the dev board in KiCAD
 - src: images/carousel/stm32h743-can-hs/kicad-flipped.png
