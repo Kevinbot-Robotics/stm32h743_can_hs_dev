@@ -1,11 +1,8 @@
-![Board Image](docs/static/images/carousel/stm32h743-can-hs/kicad.png)
+![Board Image](docs/static/images/carousel/stm32h743-can-hs/stm32h743_can_hs_promo.webp)
 
-# STM32H743 USB-HS CANbus Dev Board
+# STM32H743 CAN + USB-HS Dev Board
 
 An STM32H743 development board with on-board USB-HS and CAN-FD (up to 8Mbit/s)
-
-> [!CAUTION]
-> This project is still in development. Boards have not been tested.
 
 ## Documentation
 
@@ -23,3 +20,13 @@ Documentation is licensed under the [CC BY-SA 4.0](https://creativecommons.org/l
 * Power path switching from HS and DFU port
 * RGB LED
 * Boot/Reset buttons
+
+---
+
+<img src="docs/static/images/pcbway-logo.webp" alt="PCBWay logo" width=300/>
+
+Prototypes for this project were sponsored by [PCBWay](https://www.pcbway.com/).
+
+With their high-quality advanced PCB fabrication, fast turnaround, and excellent customer service, I recommend them for all of your PCB needs.
+
+[Order online here, for as low at $5](https://www.pcbway.com/orderonline.aspx)
