@@ -1,7 +1,7 @@
 ---
 title: "Development"
 editURL: https://github.com/Kevinbot-Robotics/stm32h743_can_hs_dev/edit/master/docs/content/development.md
-weight: 3
+weight: 4
 ---
 
 This project requires [KiCad](https://www.kicad.org/) 10.0.5 or compatible.
