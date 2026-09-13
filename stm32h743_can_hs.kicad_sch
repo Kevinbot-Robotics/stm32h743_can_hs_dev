@@ -5207,7 +5207,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:LED_ARGB"
+		(symbol "Device:LED_ABRG"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -5227,7 +5227,7 @@
 					)
 				)
 			)
-			(property "Value" "LED_ARGB"
+			(property "Value" "LED_ABRG"
 				(at 0 -8.89 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5259,7 +5259,7 @@
 					)
 				)
 			)
-			(property "Description" "RGB LED, anode/red/green/blue"
+			(property "Description" "RGB LED, anode/blue/red/green"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5292,7 +5292,7 @@
 					)
 				)
 			)
-			(symbol "LED_ARGB_0_0"
+			(symbol "LED_ABRG_0_0"
 				(text "R"
 					(at -1.905 3.81 0)
 					(effects
@@ -5318,7 +5318,7 @@
 					)
 				)
 			)
-			(symbol "LED_ARGB_0_1"
+			(symbol "LED_ABRG_0_1"
 				(polyline
 					(pts
 						(xy -1.27 6.35) (xy -1.27 3.81)
@@ -5650,7 +5650,7 @@
 					)
 				)
 			)
-			(symbol "LED_ARGB_1_1"
+			(symbol "LED_ABRG_1_1"
 				(pin passive line
 					(at 5.08 0 180)
 					(length 2.54)
@@ -5670,9 +5670,9 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 5.08 0)
+					(at -5.08 -5.08 0)
 					(length 2.54)
-					(name "RK"
+					(name "BK"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5688,9 +5688,9 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 0 0)
+					(at -5.08 5.08 0)
 					(length 2.54)
-					(name "GK"
+					(name "RK"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5706,9 +5706,9 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -5.08 0)
+					(at -5.08 0 0)
 					(length 2.54)
-					(name "BK"
+					(name "GK"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -19700,7 +19700,7 @@
 		(uuid "5b8852f5-9be5-4a06-9dbd-35ca85f36d4a")
 	)
 	(label "PC8"
-		(at 424.18 66.04 180)
+		(at 455.93 100.33 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -21215,7 +21215,7 @@
 		(uuid "ceb83b8d-d17e-4f72-9ce8-8e94b21f4763")
 	)
 	(label "PA6"
-		(at 455.93 100.33 180)
+		(at 424.18 66.04 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23833,7 +23833,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 459.74 100.33 90)
+		(at 427.99 66.04 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23844,7 +23844,7 @@
 		(fields_autoplaced yes)
 		(uuid "21d7aa97-435e-4f46-8d23-0a706baab586")
 		(property "Reference" "R26"
-			(at 459.74 93.98 90)
+			(at 427.99 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23854,7 +23854,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 459.74 96.52 90)
+			(at 427.99 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23864,7 +23864,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 459.74 102.108 90)
+			(at 427.99 67.818 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23875,7 +23875,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 459.74 100.33 0)
+			(at 427.99 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23886,7 +23886,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 459.74 100.33 0)
+			(at 427.99 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23897,7 +23897,7 @@
 			)
 		)
 		(property "manf#" "RC0402JR-071KL"
-			(at 459.74 100.33 90)
+			(at 427.99 66.04 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29428,7 +29428,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:BSS138")
-		(at 468.63 100.33 0)
+		(at 436.88 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -29438,7 +29438,7 @@
 		(dnp no)
 		(uuid "5eedd6e8-5537-4627-bc24-be132c921d3e")
 		(property "Reference" "Q3"
-			(at 473.71 99.06 0)
+			(at 441.96 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29449,7 +29449,7 @@
 			)
 		)
 		(property "Value" "BSS138"
-			(at 473.71 101.6 0)
+			(at 441.96 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29460,7 +29460,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 473.71 102.235 0)
+			(at 441.96 67.945 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29473,7 +29473,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
-			(at 473.71 104.14 0)
+			(at 441.96 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29485,7 +29485,7 @@
 			)
 		)
 		(property "Description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-323"
-			(at 468.63 100.33 0)
+			(at 436.88 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29496,7 +29496,7 @@
 			)
 		)
 		(property "manf#" "BSS138PW,115"
-			(at 468.63 100.33 0)
+			(at 436.88 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29507,7 +29507,7 @@
 			)
 		)
 		(property "manf_alt1#" "2V7002WT1G"
-			(at 468.63 100.33 0)
+			(at 436.88 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33260,7 +33260,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 443.23 60.96 90)
+		(at 474.98 50.8 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -33271,7 +33271,7 @@
 		(fields_autoplaced yes)
 		(uuid "8c65de64-a493-4872-99be-1c784170c1fe")
 		(property "Reference" "R22"
-			(at 443.23 54.61 90)
+			(at 474.98 44.45 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33281,7 +33281,7 @@
 			)
 		)
 		(property "Value" "5.1R"
-			(at 443.23 57.15 90)
+			(at 474.98 46.99 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33291,7 +33291,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 443.23 62.738 90)
+			(at 474.98 52.578 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33302,7 +33302,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 443.23 60.96 0)
+			(at 474.98 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33313,7 +33313,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 443.23 60.96 0)
+			(at 474.98 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33324,7 +33324,7 @@
 			)
 		)
 		(property "manf#" "RC0402JR-075R1L"
-			(at 443.23 60.96 90)
+			(at 474.98 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35220,7 +35220,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:BSS138")
-		(at 436.88 66.04 0)
+		(at 468.63 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -35230,7 +35230,7 @@
 		(dnp no)
 		(uuid "9afb7470-0cbd-4406-9ebb-c49d625c6f79")
 		(property "Reference" "Q1"
-			(at 441.96 64.77 0)
+			(at 473.71 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35241,7 +35241,7 @@
 			)
 		)
 		(property "Value" "BSS138"
-			(at 441.96 67.31 0)
+			(at 473.71 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -35252,7 +35252,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-323_SC-70"
-			(at 441.96 67.945 0)
+			(at 473.71 102.235 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35265,7 +35265,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
-			(at 441.96 69.85 0)
+			(at 473.71 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35277,7 +35277,7 @@
 			)
 		)
 		(property "Description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-323"
-			(at 436.88 66.04 0)
+			(at 468.63 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35288,7 +35288,7 @@
 			)
 		)
 		(property "manf#" "BSS138PW,115"
-			(at 436.88 66.04 0)
+			(at 468.63 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35299,7 +35299,7 @@
 			)
 		)
 		(property "manf_alt1#" "2V7002WT1G"
-			(at 436.88 66.04 0)
+			(at 468.63 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40137,7 +40137,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED_ARGB")
+		(lib_id "Device:LED_ABRG")
 		(at 483.87 55.88 0)
 		(unit 1)
 		(body_style 1)
@@ -40190,7 +40190,7 @@
 				)
 			)
 		)
-		(property "Description" "RGB LED, anode/red/green/blue"
+		(property "Description" "RGB LED, anode/blue/red/green"
 			(at 483.87 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -40483,7 +40483,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 474.98 50.8 90)
+		(at 443.23 60.96 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -40494,7 +40494,7 @@
 		(fields_autoplaced yes)
 		(uuid "d6158db9-660b-450c-95e4-22511a0bd6f7")
 		(property "Reference" "R23"
-			(at 474.98 44.45 90)
+			(at 443.23 54.61 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40504,7 +40504,7 @@
 			)
 		)
 		(property "Value" "68R"
-			(at 474.98 46.99 90)
+			(at 443.23 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40514,7 +40514,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 474.98 52.578 90)
+			(at 443.23 62.738 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40525,7 +40525,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 474.98 50.8 0)
+			(at 443.23 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40536,7 +40536,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 474.98 50.8 0)
+			(at 443.23 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40547,7 +40547,7 @@
 			)
 		)
 		(property "manf#" "RC0402JR-0768RL"
-			(at 474.98 50.8 90)
+			(at 443.23 60.96 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40732,7 +40732,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 427.99 66.04 90)
+		(at 459.74 100.33 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -40743,7 +40743,7 @@
 		(fields_autoplaced yes)
 		(uuid "d95fb16d-00f4-49b1-85fe-64971e0199c0")
 		(property "Reference" "R24"
-			(at 427.99 59.69 90)
+			(at 459.74 93.98 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40753,7 +40753,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 427.99 62.23 90)
+			(at 459.74 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -40763,7 +40763,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 427.99 67.818 90)
+			(at 459.74 102.108 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40774,7 +40774,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 427.99 66.04 0)
+			(at 459.74 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40785,7 +40785,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 427.99 66.04 0)
+			(at 459.74 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40796,7 +40796,7 @@
 			)
 		)
 		(property "manf#" "RC0402JR-071KL"
-			(at 427.99 66.04 90)
+			(at 459.74 100.33 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

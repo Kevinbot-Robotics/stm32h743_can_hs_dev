@@ -5755,7 +5755,7 @@
 				)
 			)
 		)
-		(property "Description" "RGB LED, anode/red/green/blue"
+		(property "Description" "RGB LED, anode/blue/red/green"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5788,7 +5788,7 @@
 		(units
 			(unit
 				(name "A")
-				(pins "2" "3" "4" "1")
+				(pins "3" "4" "2" "1")
 			)
 		)
 		(attr smd)
@@ -5981,7 +5981,7 @@
 			(size 1.5 0.9)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "Net-(D3-RK)")
-			(pinfunction "RK_2")
+			(pinfunction "BK_2")
 			(pintype "passive")
 			(uuid "2e90e4b3-5a65-4794-9442-996051562230")
 		)
@@ -5990,7 +5990,7 @@
 			(size 1.5 0.9)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "Net-(D3-GK)")
-			(pinfunction "GK_3")
+			(pinfunction "RK_3")
 			(pintype "passive")
 			(uuid "94192fff-7379-4601-b8ab-e670f6ed5fb9")
 		)
@@ -5999,7 +5999,7 @@
 			(size 1.5 0.9)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "Net-(D3-BK)")
-			(pinfunction "BK_4")
+			(pinfunction "GK_4")
 			(pintype "passive")
 			(uuid "86250158-fc3a-49a1-855c-8982a1c467ca")
 		)
