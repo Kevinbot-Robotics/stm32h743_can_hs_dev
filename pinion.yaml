@@ -1,5 +1,5 @@
 name: "STM32H743 CAN + USB-HS Dev Board"
-description: "STM32H743 CAN + USB-HS Dev Board - full pinout diagram"
+description: "[Rev 1.1] STM32H743 CAN + USB-HS Dev Board - full pinout diagram"
 components:
     J1:
         description: Conn_02x38_Counter_Clockwise

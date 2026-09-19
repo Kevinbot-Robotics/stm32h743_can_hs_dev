@@ -1,7 +1,7 @@
 {
     "pinionVersion": "0.4.0+11.g86a4ada",
     "name": "STM32H743 CAN + USB-HS Dev Board",
-    "description": "STM32H743 CAN + USB-HS Dev Board - full pinout diagram",
+    "description": "[Rev 1.1] STM32H743 CAN + USB-HS Dev Board - full pinout diagram",
     "components": [
         {
             "ref": "J7",

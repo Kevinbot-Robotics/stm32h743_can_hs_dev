@@ -6,10 +6,9 @@ weight: 3
 
 ## 1.1
 
-{{< callout type="info" >}}
-  This release is still in development
-{{< /callout >}}
-
+* Replace debug header with STDC14 to include JTAG support and UART
+* Added PA13 to exposed I/O pins
+* Added silkscreen label for debug header
 
 ## 1.0
 
