@@ -15,7 +15,7 @@ Documentation is licensed under the [CC BY-SA 4.0](https://creativecommons.org/l
 * CAN-FD using DE-9 Industrial connector
 * High Speed USB 2.0 using USB3300 ULPI PHY
 * 128Mbit QuadSPI NOR flash
-* SWD debug using MIPI-10 Cortex Debug connector
+* SWD and JTAG debug using STDC14 Debug connector
 * USB-C ports for DFU and HS
 * Power path switching from HS and DFU port
 * RGB LED
