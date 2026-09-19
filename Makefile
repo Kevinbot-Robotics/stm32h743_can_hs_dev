@@ -6,16 +6,16 @@ env:
 
 pinout:
 	./.venv/bin/pinion generate rendered --board stm32h743_can_hs.kicad_pcb --specification pinion.yaml pinion/ --renderer normal
-	cp -vf pinion/pinion.css docs/static/pinion
-	cp -vf pinion/pinion.js docs/static/pinion
-	cp -vf pinion/front.png docs/static/pinion/stm32h743-can-hs
-	cp -vf pinion/front.png docs/static/pinion/stm32h743-can-hs
-	cp -vf pinion/back.png docs/static/pinion/stm32h743-can-hs
-	cp -vf pinion/spec.json docs/static/pinion/stm32h743-can-hs
+	cp -vf pinion/pinion.css docs/static/pinion-rev1.1
+	cp -vf pinion/pinion.js docs/static/pinion-rev1.1
+	cp -vf pinion/front.png docs/static/pinion-rev1.1/stm32h743-can-hs
+	cp -vf pinion/front.png docs/static/pinion-rev1.1/stm32h743-can-hs
+	cp -vf pinion/back.png docs/static/pinion-rev1.1/stm32h743-can-hs
+	cp -vf pinion/spec.json docs/static/pinion-rev1.1/stm32h743-can-hs
 
 ibom:
 	./.venv/bin/generate_interactive_bom stm32h743_can_hs.kicad_pcb --no-browser --dark-mode --show-fields "Value,Footprint,manf#"
-	cp -vf bom/ibom.html docs/static/ibom/stm32h743-can-hs.html
+	cp -vf bom/ibom.html docs/static/ibom-rev1.1/stm32h743-can-hs.html
 
 docs:
 	rm -rv ./public

@@ -9,9 +9,9 @@ components:
                 description: 'Ground'
                 groups: ['ground']
             '2':
-                name: GND
-                description: 'Ground'
-                groups: ['ground']
+                name: PA13
+                description: 'STM32 IO pin'
+                groups: ['io']
             '3':
                 name: VBUS
                 description: '5v Power input/output, will not backfeed USB ports'
@@ -693,23 +693,23 @@ components:
         highlight: false # Make the component active
         highlightBoth: true
     J7:
-        description: Conn_ARM_JTAG_SWD_10  # Arbitrary comment
+        description: Conn_ST_STDC14  # Arbitrary comment
         groups: [] # Specify component groups
         pins:
             '1':
+                name: unconnected-(J7-NC-Pad1)
+                description: 'Not Connected'
+                groups: ['nc']
+            '2':
+                name: unconnected-(J7-NC-Pad2)
+                description: 'Not Connected'
+                groups: ['nc']
+            '3':
                 name: +3V3
                 description: '3.3v Power, max 2A total'
                 groups: ['power']
-            '2':
-                name: PA13
-                description: 'STM32 IO pin'
-                groups: ['io']
-            '3':
-                name: GND
-                description: 'Ground'
-                groups: ['ground']
             '4':
-                name: PA14
+                name: PA13
                 description: 'STM32 IO pin'
                 groups: ['io']
             '5':
@@ -717,23 +717,39 @@ components:
                 description: 'Ground'
                 groups: ['ground']
             '6':
-                name: PB3
+                name: PA14
                 description: 'STM32 IO pin'
                 groups: ['io']
             '7':
-                name: unconnected-(J7-KEY-Pad7)
-                description: 'STM32 IO pin'
-                groups: ['io']
-            '8':
-                name: unconnected-(J7-NC{slash}TDI-Pad8)
-                description: 'STM32 IO pin'
-                groups: ['io']
-            '9':
                 name: GND
                 description: 'Ground'
                 groups: ['ground']
+            '8':
+                name: PB3
+                description: 'STM32 IO pin'
+                groups: ['io']
+            '9':
+                name: unconnected-(J7-JRCLK/NC-Pad9)
+                description: 'Not Connected'
+                groups: ['nc']
             '10':
+                name: PA15
+                description: 'STM32 IO pin'
+                groups: ['io']
+            '11':
+                name: GND
+                description: 'Ground'
+                groups: ['ground']
+            '12':
                 name: nRESET
+                description: 'Reset core when low'
+                groups: ['core']
+            '13':
+                name: PD9
+                description: 'STM32 IO pin'
+                groups: ['io']
+            '14':
+                name: PD8
                 description: 'STM32 IO pin'
                 groups: ['io']
         highlight: false # Make the component active

@@ -3,4 +3,5 @@
 	(lib (name "FTSH-105-01-L-DV-K") (type "KiCad") (uri "${KIPRJMOD}/FTSH-105-01-L-DV-K.pretty") (options "") (descr ""))
 	(lib (name "FTSH-105-01-L-DV-K") (type "KiCad") (uri "${KIPRJMOD}/FTSH-105-01-L-DV-K.pretty") (options "") (descr ""))
 	(lib (name "FTSH-105-01-L-DV-K") (type "KiCad") (uri "${KIPRJMOD}/FTSH-105-01-L-DV-K.pretty") (options "") (descr ""))
+	(lib (name "SAMTEC_FTSH-107-01-X-DV-K") (type "KiCad") (uri "${KIPRJMOD}/SAMTEC_FTSH-107-01-X-DV-K.pretty") (options "") (descr ""))
 )
