@@ -37526,6 +37526,17 @@
 				)
 			)
 		)
+		(property "manf#" " FTSH-107-01-L-DV-K-A"
+			(at 440.69 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "14"
 			(uuid "42f673bd-6de8-4f02-8119-fd3b7b0f2aa4")
 		)

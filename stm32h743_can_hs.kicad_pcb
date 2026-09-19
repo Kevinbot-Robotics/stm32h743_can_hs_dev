@@ -18212,6 +18212,19 @@
 				)
 			)
 		)
+		(property "manf#" " FTSH-107-01-L-DV-K-A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8409cf7a-2d3d-4cb1-abe6-1b79729dcb83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "PinHeader?2x07?P1.27mm*")
 		(path "/ac2937de-5be0-4312-8c9a-c410a7617599")
 		(sheetname "/")
