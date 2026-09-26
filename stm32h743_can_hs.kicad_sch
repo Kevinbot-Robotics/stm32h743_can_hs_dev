@@ -18791,7 +18791,7 @@
 		(uuid "0f3a4edb-53c0-494d-b8e0-5d06ff5491c9")
 	)
 	(label "PA7"
-		(at 444.5 78.74 180)
+		(at 455.93 100.33 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -19732,7 +19732,7 @@
 		(uuid "5b8852f5-9be5-4a06-9dbd-35ca85f36d4a")
 	)
 	(label "PC8"
-		(at 455.93 100.33 180)
+		(at 444.5 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
